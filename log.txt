@@ -1,0 +1,589 @@
+Episode 0 - Step 327 - Epsilon 0.9999182533312106 - Mean Reward 722.0 - Mean Length 327.0 - Mean Loss 0.0 - Mean Q Value 0.0 - Time Delta 7.122 - Time 2024-07-19T04:07:02
+Episode 20 - Step 5485 - Epsilon 0.9986296895623334 - Mean Reward 665.952 - Mean Length 261.19 - Mean Loss 0.0 - Mean Q Value 0.0 - Time Delta 110.433 - Time 2024-07-19T04:08:53
+Episode 40 - Step 8262 - Epsilon 0.9979366314192675 - Mean Reward 578.634 - Mean Length 201.512 - Mean Loss 0.0 - Mean Q Value 0.0 - Time Delta 58.38 - Time 2024-07-19T04:09:51
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_1.chkpt at step 10000
+Episode 60 - Step 12395 - Epsilon 0.9969060457838779 - Mean Reward 625.246 - Mean Length 203.197 - Mean Loss 0.196 - Mean Q Value 0.609 - Time Delta 91.376 - Time 2024-07-19T04:11:22
+Episode 80 - Step 16506 - Epsilon 0.9958820017879222 - Mean Reward 638.58 - Mean Length 203.778 - Mean Loss 0.263 - Mean Q Value 1.249 - Time Delta 92.412 - Time 2024-07-19T04:12:55
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_2.chkpt at step 20000
+Episode 100 - Step 21022 - Epsilon 0.9947582853245867 - Mean Reward 643.1 - Mean Length 206.95 - Mean Loss 0.314 - Mean Q Value 1.821 - Time Delta 102.288 - Time 2024-07-19T04:14:37
+Episode 120 - Step 25945 - Epsilon 0.9935347395057631 - Mean Reward 657.42 - Mean Length 204.6 - Mean Loss 0.421 - Mean Q Value 3.045 - Time Delta 111.115 - Time 2024-07-19T04:16:28
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_3.chkpt at step 30000
+Episode 140 - Step 31243 - Epsilon 0.9922196736733218 - Mean Reward 696.39 - Mean Length 229.81 - Mean Loss 0.515 - Mean Q Value 4.355 - Time Delta 124.961 - Time 2024-07-19T04:18:33
+Episode 160 - Step 36355 - Epsilon 0.9909524267150647 - Mean Reward 700.56 - Mean Length 239.6 - Mean Loss 0.508 - Mean Q Value 5.646 - Time Delta 124.831 - Time 2024-07-19T04:20:38
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_4.chkpt at step 40000
+Episode 180 - Step 40514 - Epsilon 0.9899226192644414 - Mean Reward 695.88 - Mean Length 240.08 - Mean Loss 0.523 - Mean Q Value 6.729 - Time Delta 102.152 - Time 2024-07-19T04:22:20
+Episode 200 - Step 44170 - Epsilon 0.9890182432400596 - Mean Reward 673.88 - Mean Length 231.48 - Mean Loss 0.551 - Mean Q Value 7.964 - Time Delta 89.375 - Time 2024-07-19T04:23:50
+Episode 220 - Step 47630 - Epsilon 0.9881631122501198 - Mean Reward 633.71 - Mean Length 216.85 - Mean Loss 0.553 - Mean Q Value 8.729 - Time Delta 85.835 - Time 2024-07-19T04:25:15
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_5.chkpt at step 50000
+Episode 240 - Step 52781 - Epsilon 0.9868914240271738 - Mean Reward 637.71 - Mean Length 215.38 - Mean Loss 0.599 - Mean Q Value 9.678 - Time Delta 126.843 - Time 2024-07-19T04:27:22
+Episode 260 - Step 57168 - Epsilon 0.9858096440520264 - Mean Reward 635.24 - Mean Length 208.13 - Mean Loss 0.621 - Mean Q Value 10.523 - Time Delta 107.127 - Time 2024-07-19T04:29:09
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_6.chkpt at step 60000
+Episode 280 - Step 61080 - Epsilon 0.9848459934015309 - Mean Reward 637.32 - Mean Length 205.66 - Mean Loss 0.656 - Mean Q Value 11.445 - Time Delta 93.713 - Time 2024-07-19T04:30:43
+Episode 300 - Step 65426 - Epsilon 0.9837765391820821 - Mean Reward 662.09 - Mean Length 212.56 - Mean Loss 0.678 - Mean Q Value 12.389 - Time Delta 101.141 - Time 2024-07-19T04:32:24
+Episode 320 - Step 68990 - Epsilon 0.9829003845608775 - Mean Reward 673.51 - Mean Length 213.6 - Mean Loss 0.715 - Mean Q Value 13.454 - Time Delta 82.969 - Time 2024-07-19T04:33:47
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_7.chkpt at step 70000
+Episode 340 - Step 73336 - Epsilon 0.9818330430977347 - Mean Reward 670.37 - Mean Length 205.55 - Mean Loss 0.737 - Mean Q Value 14.529 - Time Delta 101.274 - Time 2024-07-19T04:35:28
+Episode 360 - Step 76519 - Epsilon 0.9810520601307667 - Mean Reward 624.94 - Mean Length 193.51 - Mean Loss 0.76 - Mean Q Value 15.531 - Time Delta 72.55 - Time 2024-07-19T04:36:41
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_8.chkpt at step 80000
+Episode 380 - Step 80960 - Epsilon 0.9799634513705394 - Mean Reward 623.22 - Mean Length 198.8 - Mean Loss 0.77 - Mean Q Value 16.368 - Time Delta 101.099 - Time 2024-07-19T04:38:22
+Episode 400 - Step 84560 - Epsilon 0.979081880920194 - Mean Reward 599.16 - Mean Length 191.34 - Mean Loss 0.782 - Mean Q Value 17.016 - Time Delta 83.26 - Time 2024-07-19T04:39:45
+Episode 420 - Step 89529 - Epsilon 0.977866371441154 - Mean Reward 625.28 - Mean Length 205.39 - Mean Loss 0.787 - Mean Q Value 17.544 - Time Delta 114.004 - Time 2024-07-19T04:41:39
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_9.chkpt at step 90000
+Episode 440 - Step 93090 - Epsilon 0.9769962131817529 - Mean Reward 622.84 - Mean Length 197.54 - Mean Loss 0.807 - Mean Q Value 18.043 - Time Delta 80.644 - Time 2024-07-19T04:43:00
+Episode 460 - Step 97547 - Epsilon 0.9759082012862579 - Mean Reward 650.64 - Mean Length 210.28 - Mean Loss 0.812 - Mean Q Value 18.413 - Time Delta 100.484 - Time 2024-07-19T04:44:41
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_10.chkpt at step 100000
+Episode 480 - Step 101818 - Epsilon 0.97486673128775 - Mean Reward 654.4 - Mean Length 208.58 - Mean Loss 0.833 - Mean Q Value 18.95 - Time Delta 97.451 - Time 2024-07-19T04:46:18
+Episode 500 - Step 105214 - Epsilon 0.974039420572449 - Mean Reward 655.67 - Mean Length 206.54 - Mean Loss 0.858 - Mean Q Value 19.459 - Time Delta 77.281 - Time 2024-07-19T04:47:35
+Episode 520 - Step 108588 - Epsilon 0.9732181646318123 - Mean Reward 632.41 - Mean Length 190.59 - Mean Loss 0.881 - Mean Q Value 20.105 - Time Delta 77.77 - Time 2024-07-19T04:48:53
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_11.chkpt at step 110000
+Episode 540 - Step 113434 - Epsilon 0.9720398246015005 - Mean Reward 628.34 - Mean Length 203.44 - Mean Loss 0.893 - Mean Q Value 20.705 - Time Delta 110.303 - Time 2024-07-19T04:50:43
+Episode 560 - Step 118236 - Epsilon 0.9708735908180194 - Mean Reward 632.74 - Mean Length 206.89 - Mean Loss 0.903 - Mean Q Value 21.255 - Time Delta 110.566 - Time 2024-07-19T04:52:34
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_12.chkpt at step 120000
+Episode 580 - Step 122489 - Epsilon 0.9698418579356594 - Mean Reward 643.89 - Mean Length 206.71 - Mean Loss 0.917 - Mean Q Value 21.633 - Time Delta 98.055 - Time 2024-07-19T04:54:12
+Episode 600 - Step 127296 - Epsilon 0.9686770503810468 - Mean Reward 671.03 - Mean Length 220.82 - Mean Loss 0.912 - Mean Q Value 21.819 - Time Delta 110.647 - Time 2024-07-19T04:56:03
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_13.chkpt at step 130000
+Episode 620 - Step 131431 - Epsilon 0.9676761977597955 - Mean Reward 680.61 - Mean Length 228.43 - Mean Loss 0.916 - Mean Q Value 21.982 - Time Delta 94.342 - Time 2024-07-19T04:57:37
+Episode 640 - Step 135517 - Epsilon 0.9666882210951406 - Mean Reward 688.46 - Mean Length 220.83 - Mean Loss 0.911 - Mean Q Value 22.087 - Time Delta 93.608 - Time 2024-07-19T04:59:11
+Episode 660 - Step 139965 - Epsilon 0.9656138611136917 - Mean Reward 686.24 - Mean Length 217.29 - Mean Loss 0.908 - Mean Q Value 22.139 - Time Delta 101.202 - Time 2024-07-19T05:00:52
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_14.chkpt at step 140000
+Episode 680 - Step 144108 - Epsilon 0.9646142441979243 - Mean Reward 661.09 - Mean Length 216.19 - Mean Loss 0.897 - Mean Q Value 22.369 - Time Delta 96.549 - Time 2024-07-19T05:02:28
+Episode 700 - Step 147964 - Epsilon 0.9636848040123545 - Mean Reward 644.03 - Mean Length 206.68 - Mean Loss 0.903 - Mean Q Value 22.769 - Time Delta 89.298 - Time 2024-07-19T05:03:58
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_15.chkpt at step 150000
+Episode 720 - Step 152576 - Epsilon 0.9625743156139477 - Mean Reward 647.05 - Mean Length 211.45 - Mean Loss 0.912 - Mean Q Value 23.166 - Time Delta 107.054 - Time 2024-07-19T05:05:45
+Episode 740 - Step 158168 - Epsilon 0.961229576743922 - Mean Reward 659.01 - Mean Length 226.51 - Mean Loss 0.903 - Mean Q Value 23.285 - Time Delta 129.71 - Time 2024-07-19T05:07:54
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_16.chkpt at step 160000
+Episode 760 - Step 163030 - Epsilon 0.9600619118393796 - Mean Reward 681.5 - Mean Length 230.65 - Mean Loss 0.937 - Mean Q Value 23.53 - Time Delta 113.189 - Time 2024-07-19T05:09:48
+Episode 780 - Step 166271 - Epsilon 0.9592843366356986 - Mean Reward 677.19 - Mean Length 221.63 - Mean Loss 0.944 - Mean Q Value 23.625 - Time Delta 75.834 - Time 2024-07-19T05:11:03
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_17.chkpt at step 170000
+Episode 800 - Step 170886 - Epsilon 0.9581782004189108 - Mean Reward 695.64 - Mean Length 229.22 - Mean Loss 0.957 - Mean Q Value 23.793 - Time Delta 107.669 - Time 2024-07-19T05:12:51
+Episode 820 - Step 173983 - Epsilon 0.9574366179765847 - Mean Reward 679.69 - Mean Length 214.07 - Mean Loss 0.993 - Mean Q Value 23.964 - Time Delta 71.932 - Time 2024-07-19T05:14:03
+Episode 840 - Step 179090 - Epsilon 0.9562149906440056 - Mean Reward 663.02 - Mean Length 209.22 - Mean Loss 1.021 - Mean Q Value 24.44 - Time Delta 116.98 - Time 2024-07-19T05:16:00
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_18.chkpt at step 180000
+Episode 860 - Step 185380 - Epsilon 0.9547125240071959 - Mean Reward 645.88 - Mean Length 223.5 - Mean Loss 1.014 - Mean Q Value 24.622 - Time Delta 144.754 - Time 2024-07-19T05:18:25
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_19.chkpt at step 190000
+Episode 880 - Step 192171 - Epsilon 0.9530930357489925 - Mean Reward 666.54 - Mean Length 259.0 - Mean Loss 1.02 - Mean Q Value 24.328 - Time Delta 156.092 - Time 2024-07-19T05:21:01
+Episode 900 - Step 197094 - Epsilon 0.9519207378993122 - Mean Reward 691.26 - Mean Length 262.08 - Mean Loss 1.005 - Mean Q Value 23.536 - Time Delta 113.6 - Time 2024-07-19T05:22:54
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_20.chkpt at step 200000
+Episode 920 - Step 200230 - Epsilon 0.9511747244229374 - Mean Reward 693.48 - Mean Length 262.47 - Mean Loss 0.991 - Mean Q Value 23.008 - Time Delta 72.685 - Time 2024-07-19T05:24:07
+Episode 940 - Step 204432 - Epsilon 0.9501760399008402 - Mean Reward 703.19 - Mean Length 253.42 - Mean Loss 1.001 - Mean Q Value 22.787 - Time Delta 96.657 - Time 2024-07-19T05:25:44
+Episode 960 - Step 208210 - Epsilon 0.9492790222021928 - Mean Reward 682.76 - Mean Length 228.3 - Mean Loss 1.032 - Mean Q Value 23.167 - Time Delta 86.875 - Time 2024-07-19T05:27:11
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_21.chkpt at step 210000
+Episode 980 - Step 212145 - Epsilon 0.9483456280358249 - Mean Reward 667.16 - Mean Length 199.74 - Mean Loss 1.078 - Mean Q Value 24.375 - Time Delta 91.009 - Time 2024-07-19T05:28:42
+Episode 1000 - Step 215700 - Epsilon 0.9475031601805873 - Mean Reward 627.61 - Mean Length 186.06 - Mean Loss 1.113 - Mean Q Value 26.295 - Time Delta 81.144 - Time 2024-07-19T05:30:03
+Episode 1020 - Step 219151 - Epsilon 0.9466860542566422 - Mean Reward 623.23 - Mean Length 189.21 - Mean Loss 1.124 - Mean Q Value 27.798 - Time Delta 78.82 - Time 2024-07-19T05:31:22
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_22.chkpt at step 220000
+Episode 1040 - Step 222765 - Epsilon 0.9458311095790516 - Mean Reward 599.95 - Mean Length 183.33 - Mean Loss 1.141 - Mean Q Value 28.812 - Time Delta 82.244 - Time 2024-07-19T05:32:44
+Episode 1060 - Step 227331 - Epsilon 0.944752059217592 - Mean Reward 604.0 - Mean Length 191.21 - Mean Loss 1.127 - Mean Q Value 29.432 - Time Delta 103.919 - Time 2024-07-19T05:34:28
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_23.chkpt at step 230000
+Episode 1080 - Step 230851 - Epsilon 0.9439210430022514 - Mean Reward 632.28 - Mean Length 187.06 - Mean Loss 1.131 - Mean Q Value 29.578 - Time Delta 79.088 - Time 2024-07-19T05:35:47
+Episode 1100 - Step 235333 - Epsilon 0.942863971676097 - Mean Reward 646.38 - Mean Length 196.33 - Mean Loss 1.124 - Mean Q Value 29.402 - Time Delta 101.293 - Time 2024-07-19T05:37:28
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_24.chkpt at step 240000
+Episode 1120 - Step 241356 - Epsilon 0.9414453224068291 - Mean Reward 682.37 - Mean Length 222.05 - Mean Loss 1.134 - Mean Q Value 29.031 - Time Delta 135.735 - Time 2024-07-19T05:39:44
+Episode 1140 - Step 244639 - Epsilon 0.9406729480682867 - Mean Reward 687.12 - Mean Length 218.74 - Mean Loss 1.119 - Mean Q Value 28.617 - Time Delta 74.278 - Time 2024-07-19T05:40:58
+Episode 1160 - Step 248968 - Epsilon 0.9396554553329817 - Mean Reward 706.75 - Mean Length 216.37 - Mean Loss 1.121 - Mean Q Value 28.52 - Time Delta 97.608 - Time 2024-07-19T05:42:36
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_25.chkpt at step 250000
+Episode 1180 - Step 253394 - Epsilon 0.938616301459518 - Mean Reward 702.53 - Mean Length 225.43 - Mean Loss 1.106 - Mean Q Value 28.402 - Time Delta 99.715 - Time 2024-07-19T05:44:15
+Episode 1200 - Step 256778 - Epsilon 0.9378225677658523 - Mean Reward 679.73 - Mean Length 214.45 - Mean Loss 1.11 - Mean Q Value 28.273 - Time Delta 76.49 - Time 2024-07-19T05:45:32
+Episode 1220 - Step 259595 - Epsilon 0.9371623386503471 - Mean Reward 635.13 - Mean Length 182.39 - Mean Loss 1.121 - Mean Q Value 28.771 - Time Delta 63.848 - Time 2024-07-19T05:46:36
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_26.chkpt at step 260000
+Episode 1240 - Step 263410 - Epsilon 0.9362689460623748 - Mean Reward 634.02 - Mean Length 187.71 - Mean Loss 1.151 - Mean Q Value 29.716 - Time Delta 86.508 - Time 2024-07-19T05:48:02
+Episode 1260 - Step 268701 - Epsilon 0.9350313148778676 - Mean Reward 652.96 - Mean Length 197.33 - Mean Loss 1.158 - Mean Q Value 30.045 - Time Delta 118.97 - Time 2024-07-19T05:50:01
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_27.chkpt at step 270000
+Episode 1280 - Step 273495 - Epsilon 0.933911350979262 - Mean Reward 647.08 - Mean Length 201.01 - Mean Loss 1.162 - Mean Q Value 30.448 - Time Delta 108.345 - Time 2024-07-19T05:51:50
+Episode 1300 - Step 277368 - Epsilon 0.9330075288340812 - Mean Reward 653.67 - Mean Length 205.9 - Mean Loss 1.151 - Mean Q Value 30.621 - Time Delta 87.656 - Time 2024-07-19T05:53:17
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_28.chkpt at step 280000
+Episode 1320 - Step 282099 - Epsilon 0.9319046663751913 - Mean Reward 697.56 - Mean Length 225.04 - Mean Loss 1.131 - Mean Q Value 30.128 - Time Delta 106.737 - Time 2024-07-19T05:55:04
+Episode 1340 - Step 285849 - Epsilon 0.9310314150417084 - Mean Reward 705.9 - Mean Length 224.39 - Mean Loss 1.126 - Mean Q Value 29.431 - Time Delta 84.26 - Time 2024-07-19T05:56:28
+Episode 1360 - Step 289394 - Epsilon 0.9302066538731956 - Mean Reward 681.39 - Mean Length 206.93 - Mean Loss 1.144 - Mean Q Value 29.179 - Time Delta 80.227 - Time 2024-07-19T05:57:49
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_29.chkpt at step 290000
+Episode 1380 - Step 292964 - Epsilon 0.9293768147015818 - Mean Reward 676.03 - Mean Length 194.69 - Mean Loss 1.149 - Mean Q Value 29.311 - Time Delta 80.973 - Time 2024-07-19T05:59:09
+Episode 1400 - Step 295927 - Epsilon 0.9286886336564902 - Mean Reward 673.99 - Mean Length 185.59 - Mean Loss 1.177 - Mean Q Value 29.867 - Time Delta 67.318 - Time 2024-07-19T06:00:17
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_30.chkpt at step 300000
+Episode 1420 - Step 300100 - Epsilon 0.9277202843212982 - Mean Reward 659.59 - Mean Length 180.01 - Mean Loss 1.229 - Mean Q Value 30.968 - Time Delta 94.376 - Time 2024-07-19T06:01:51
+Episode 1440 - Step 303863 - Epsilon 0.9268479417471313 - Mean Reward 659.71 - Mean Length 180.14 - Mean Loss 1.231 - Mean Q Value 31.975 - Time Delta 85.299 - Time 2024-07-19T06:03:16
+Episode 1460 - Step 307753 - Epsilon 0.9259470201551706 - Mean Reward 645.95 - Mean Length 183.59 - Mean Loss 1.243 - Mean Q Value 32.712 - Time Delta 87.654 - Time 2024-07-19T06:04:44
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_31.chkpt at step 310000
+Episode 1480 - Step 311542 - Epsilon 0.9250703320175876 - Mean Reward 641.26 - Mean Length 185.78 - Mean Loss 1.244 - Mean Q Value 33.185 - Time Delta 85.281 - Time 2024-07-19T06:06:09
+Episode 1500 - Step 315911 - Epsilon 0.9240604754293922 - Mean Reward 643.69 - Mean Length 199.84 - Mean Loss 1.229 - Mean Q Value 32.946 - Time Delta 98.68 - Time 2024-07-19T06:07:48
+Episode 1520 - Step 319506 - Epsilon 0.9232303490671332 - Mean Reward 635.92 - Mean Length 194.06 - Mean Loss 1.181 - Mean Q Value 32.276 - Time Delta 81.731 - Time 2024-07-19T06:09:10
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_32.chkpt at step 320000
+Episode 1540 - Step 324123 - Epsilon 0.9221653250736604 - Mean Reward 649.92 - Mean Length 202.6 - Mean Loss 1.16 - Mean Q Value 31.603 - Time Delta 104.042 - Time 2024-07-19T06:10:54
+Episode 1560 - Step 328775 - Epsilon 0.9210934700709689 - Mean Reward 674.01 - Mean Length 210.22 - Mean Loss 1.126 - Mean Q Value 30.967 - Time Delta 104.543 - Time 2024-07-19T06:12:38
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_33.chkpt at step 330000
+Episode 1580 - Step 332411 - Epsilon 0.9202565764277315 - Mean Reward 664.93 - Mean Length 208.69 - Mean Loss 1.105 - Mean Q Value 30.179 - Time Delta 82.728 - Time 2024-07-19T06:14:01
+Episode 1600 - Step 337068 - Epsilon 0.9191857910265312 - Mean Reward 668.44 - Mean Length 211.57 - Mean Loss 1.099 - Mean Q Value 29.95 - Time Delta 105.003 - Time 2024-07-19T06:15:46
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_34.chkpt at step 340000
+Episode 1620 - Step 341747 - Epsilon 0.918111201935826 - Mean Reward 703.2 - Mean Length 222.41 - Mean Loss 1.093 - Mean Q Value 29.72 - Time Delta 105.56 - Time 2024-07-19T06:17:32
+Episode 1640 - Step 346474 - Epsilon 0.9170268647211882 - Mean Reward 719.05 - Mean Length 223.51 - Mean Loss 1.09 - Mean Q Value 29.516 - Time Delta 106.928 - Time 2024-07-19T06:19:19
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_35.chkpt at step 350000
+Episode 1660 - Step 350135 - Epsilon 0.9161879397498693 - Mean Reward 716.98 - Mean Length 213.6 - Mean Loss 1.118 - Mean Q Value 29.676 - Time Delta 83.638 - Time 2024-07-19T06:20:42
+Episode 1680 - Step 355425 - Epsilon 0.9149770819042583 - Mean Reward 757.17 - Mean Length 230.14 - Mean Loss 1.134 - Mean Q Value 30.138 - Time Delta 120.733 - Time 2024-07-19T06:22:43
+Episode 1700 - Step 359848 - Epsilon 0.9139659050268503 - Mean Reward 762.91 - Mean Length 227.8 - Mean Loss 1.132 - Mean Q Value 30.439 - Time Delta 101.186 - Time 2024-07-19T06:24:24
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_36.chkpt at step 360000
+Episode 1720 - Step 364069 - Epsilon 0.9130019510805968 - Mean Reward 752.98 - Mean Length 223.22 - Mean Loss 1.127 - Mean Q Value 30.869 - Time Delta 97.043 - Time 2024-07-19T06:26:01
+Episode 1740 - Step 367270 - Epsilon 0.912271613443172 - Mean Reward 716.94 - Mean Length 207.96 - Mean Loss 1.101 - Mean Q Value 31.459 - Time Delta 73.529 - Time 2024-07-19T06:27:15
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_37.chkpt at step 370000
+Episode 1760 - Step 372057 - Epsilon 0.9111805052753218 - Mean Reward 699.32 - Mean Length 219.22 - Mean Loss 1.069 - Mean Q Value 31.628 - Time Delta 109.607 - Time 2024-07-19T06:29:04
+Episode 1780 - Step 375532 - Epsilon 0.9103892608589058 - Mean Reward 652.42 - Mean Length 201.07 - Mean Loss 1.03 - Mean Q Value 31.331 - Time Delta 79.517 - Time 2024-07-19T06:30:24
+Episode 1800 - Step 378250 - Epsilon 0.9097708614037753 - Mean Reward 633.95 - Mean Length 184.02 - Mean Loss 1.04 - Mean Q Value 31.483 - Time Delta 62.121 - Time 2024-07-19T06:31:26
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_38.chkpt at step 380000
+Episode 1820 - Step 382604 - Epsilon 0.908781114464778 - Mean Reward 636.12 - Mean Length 185.35 - Mean Loss 1.071 - Mean Q Value 31.936 - Time Delta 98.966 - Time 2024-07-19T06:33:05
+Episode 1840 - Step 387319 - Epsilon 0.907710519697884 - Mean Reward 644.06 - Mean Length 200.49 - Mean Loss 1.082 - Mean Q Value 31.627 - Time Delta 107.171 - Time 2024-07-19T06:34:52
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_39.chkpt at step 390000
+Episode 1860 - Step 393276 - Epsilon 0.9063597177279602 - Mean Reward 690.16 - Mean Length 212.19 - Mean Loss 1.066 - Mean Q Value 31.349 - Time Delta 134.863 - Time 2024-07-19T06:37:07
+Episode 1880 - Step 397657 - Epsilon 0.9053675705467397 - Mean Reward 698.02 - Mean Length 221.25 - Mean Loss 1.084 - Mean Q Value 31.239 - Time Delta 99.735 - Time 2024-07-19T06:38:47
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_40.chkpt at step 400000
+Episode 1900 - Step 402316 - Epsilon 0.9043136574288592 - Mean Reward 714.51 - Mean Length 240.66 - Mean Loss 1.046 - Mean Q Value 30.191 - Time Delta 106.02 - Time 2024-07-19T06:40:33
+Episode 1920 - Step 406999 - Epsilon 0.9032555515915776 - Mean Reward 702.67 - Mean Length 243.95 - Mean Loss 0.992 - Mean Q Value 29.019 - Time Delta 106.056 - Time 2024-07-19T06:42:19
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_41.chkpt at step 410000
+Episode 1940 - Step 412045 - Epsilon 0.9021168129811387 - Mean Reward 702.41 - Mean Length 247.26 - Mean Loss 0.985 - Mean Q Value 28.353 - Time Delta 114.054 - Time 2024-07-19T06:44:13
+Episode 1960 - Step 415000 - Epsilon 0.9014506202074359 - Mean Reward 643.95 - Mean Length 217.24 - Mean Loss 0.992 - Mean Q Value 27.909 - Time Delta 67.563 - Time 2024-07-19T06:45:20
+Episode 1980 - Step 419022 - Epsilon 0.9005446670397307 - Mean Reward 666.38 - Mean Length 213.65 - Mean Loss 0.987 - Mean Q Value 27.876 - Time Delta 91.486 - Time 2024-07-19T06:46:52
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_42.chkpt at step 420000
+Episode 2000 - Step 422988 - Epsilon 0.8996522193947121 - Mean Reward 670.38 - Mean Length 206.72 - Mean Loss 1.051 - Mean Q Value 28.744 - Time Delta 90.142 - Time 2024-07-19T06:48:22
+Episode 2020 - Step 426934 - Epsilon 0.8987651499881998 - Mean Reward 661.06 - Mean Length 199.35 - Mean Loss 1.114 - Mean Q Value 29.625 - Time Delta 89.617 - Time 2024-07-19T06:49:52
+Episode 2040 - Step 429242 - Epsilon 0.898246712015519 - Mean Reward 620.07 - Mean Length 171.97 - Mean Loss 1.175 - Mean Q Value 30.599 - Time Delta 52.945 - Time 2024-07-19T06:50:45
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_43.chkpt at step 430000
+Episode 2060 - Step 433749 - Epsilon 0.8972351823836971 - Mean Reward 630.7 - Mean Length 187.49 - Mean Loss 1.251 - Mean Q Value 31.703 - Time Delta 103.462 - Time 2024-07-19T06:52:28
+Episode 2080 - Step 436798 - Epsilon 0.896551525372255 - Mean Reward 591.96 - Mean Length 177.76 - Mean Loss 1.301 - Mean Q Value 32.352 - Time Delta 72.213 - Time 2024-07-19T06:53:40
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_44.chkpt at step 440000
+Episode 2100 - Step 441006 - Epsilon 0.8956088489843153 - Mean Reward 588.6 - Mean Length 180.18 - Mean Loss 1.314 - Mean Q Value 32.638 - Time Delta 95.888 - Time 2024-07-19T06:55:16
+Episode 2120 - Step 446044 - Epsilon 0.8944815395700736 - Mean Reward 579.56 - Mean Length 191.1 - Mean Loss 1.287 - Mean Q Value 32.402 - Time Delta 116.268 - Time 2024-07-19T06:57:12
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_45.chkpt at step 450000
+Episode 2140 - Step 450101 - Epsilon 0.8935747714775942 - Mean Reward 607.75 - Mean Length 208.59 - Mean Loss 1.235 - Mean Q Value 31.73 - Time Delta 92.888 - Time 2024-07-19T06:58:45
+Episode 2160 - Step 453911 - Epsilon 0.8927240466233285 - Mean Reward 621.92 - Mean Length 201.62 - Mean Loss 1.163 - Mean Q Value 31.039 - Time Delta 88.218 - Time 2024-07-19T07:00:14
+Episode 2180 - Step 458462 - Epsilon 0.891708927297764 - Mean Reward 653.14 - Mean Length 216.64 - Mean Loss 1.101 - Mean Q Value 30.435 - Time Delta 104.612 - Time 2024-07-19T07:01:58
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_46.chkpt at step 460000
+Episode 2200 - Step 461773 - Epsilon 0.890971120542762 - Mean Reward 646.73 - Mean Length 207.67 - Mean Loss 1.031 - Mean Q Value 29.838 - Time Delta 78.173 - Time 2024-07-19T07:03:16
+Episode 2220 - Step 465582 - Epsilon 0.8901230970163863 - Mean Reward 638.95 - Mean Length 195.38 - Mean Loss 1.002 - Mean Q Value 29.847 - Time Delta 87.25 - Time 2024-07-19T07:04:44
+Episode 2240 - Step 469205 - Epsilon 0.8893172329312093 - Mean Reward 655.54 - Mean Length 191.04 - Mean Loss 0.992 - Mean Q Value 30.483 - Time Delta 82.428 - Time 2024-07-19T07:06:06
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_47.chkpt at step 470000
+Episode 2260 - Step 472351 - Epsilon 0.8886180598258785 - Mean Reward 624.99 - Mean Length 184.4 - Mean Loss 0.992 - Mean Q Value 31.023 - Time Delta 71.238 - Time 2024-07-19T07:07:17
+Episode 2280 - Step 476117 - Epsilon 0.8877818195397907 - Mean Reward 596.05 - Mean Length 176.55 - Mean Loss 1.041 - Mean Q Value 31.67 - Time Delta 86.782 - Time 2024-07-19T07:08:44
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_48.chkpt at step 480000
+Episode 2300 - Step 480834 - Epsilon 0.8867355197439337 - Mean Reward 595.97 - Mean Length 190.61 - Mean Loss 1.058 - Mean Q Value 32.131 - Time Delta 108.953 - Time 2024-07-19T07:10:33
+Episode 2320 - Step 484270 - Epsilon 0.8859741408962302 - Mean Reward 603.27 - Mean Length 186.88 - Mean Loss 1.086 - Mean Q Value 32.176 - Time Delta 78.854 - Time 2024-07-19T07:11:52
+Episode 2340 - Step 487453 - Epsilon 0.8852694073184825 - Mean Reward 569.91 - Mean Length 182.48 - Mean Loss 1.095 - Mean Q Value 32.012 - Time Delta 72.934 - Time 2024-07-19T07:13:05
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_49.chkpt at step 490000
+Episode 2360 - Step 490988 - Epsilon 0.8844873959840582 - Mean Reward 578.22 - Mean Length 186.37 - Mean Loss 1.096 - Mean Q Value 31.81 - Time Delta 80.474 - Time 2024-07-19T07:14:25
+Episode 2380 - Step 496387 - Epsilon 0.883294364300415 - Mean Reward 612.3 - Mean Length 202.7 - Mean Loss 1.059 - Mean Q Value 31.12 - Time Delta 123.254 - Time 2024-07-19T07:16:29
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_50.chkpt at step 500000
+Episode 2400 - Step 500428 - Epsilon 0.8824024666529211 - Mean Reward 619.69 - Mean Length 195.94 - Mean Loss 1.048 - Mean Q Value 30.85 - Time Delta 92.401 - Time 2024-07-19T07:18:01
+Episode 2420 - Step 504586 - Epsilon 0.8814856857535349 - Mean Reward 628.03 - Mean Length 203.16 - Mean Loss 1.025 - Mean Q Value 30.967 - Time Delta 95.45 - Time 2024-07-19T07:19:36
+Episode 2440 - Step 509408 - Epsilon 0.8804236948700702 - Mean Reward 663.48 - Mean Length 219.55 - Mean Loss 1.047 - Mean Q Value 30.9 - Time Delta 110.068 - Time 2024-07-19T07:21:26
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_51.chkpt at step 510000
+Episode 2460 - Step 512650 - Epsilon 0.8797104004777151 - Mean Reward 664.38 - Mean Length 216.62 - Mean Loss 1.031 - Mean Q Value 30.486 - Time Delta 74.342 - Time 2024-07-19T07:22:41
+Episode 2480 - Step 515046 - Epsilon 0.879183611670906 - Mean Reward 625.6 - Mean Length 186.59 - Mean Loss 1.033 - Mean Q Value 30.934 - Time Delta 54.73 - Time 2024-07-19T07:23:35
+Episode 2500 - Step 518956 - Epsilon 0.8783246294789493 - Mean Reward 616.77 - Mean Length 185.28 - Mean Loss 1.066 - Mean Q Value 31.455 - Time Delta 89.481 - Time 2024-07-19T07:25:05
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_52.chkpt at step 520000
+Episode 2520 - Step 522906 - Epsilon 0.8774577119098496 - Mean Reward 595.12 - Mean Length 183.2 - Mean Loss 1.081 - Mean Q Value 31.555 - Time Delta 90.032 - Time 2024-07-19T07:26:35
+Episode 2540 - Step 528582 - Epsilon 0.8762134822506684 - Mean Reward 603.7 - Mean Length 191.74 - Mean Loss 1.054 - Mean Q Value 31.443 - Time Delta 128.685 - Time 2024-07-19T07:28:44
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_53.chkpt at step 530000
+Episode 2560 - Step 532477 - Epsilon 0.8753606845388777 - Mean Reward 617.98 - Mean Length 198.27 - Mean Loss 1.057 - Mean Q Value 31.706 - Time Delta 88.961 - Time 2024-07-19T07:30:13
+Episode 2580 - Step 536010 - Epsilon 0.8745878634648971 - Mean Reward 624.69 - Mean Length 209.64 - Mean Loss 1.042 - Mean Q Value 31.315 - Time Delta 80.621 - Time 2024-07-19T07:31:33
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_54.chkpt at step 540000
+Episode 2600 - Step 540115 - Epsilon 0.8736907779534879 - Mean Reward 610.24 - Mean Length 211.59 - Mean Loss 0.991 - Mean Q Value 30.516 - Time Delta 93.662 - Time 2024-07-19T07:33:07
+Episode 2620 - Step 545003 - Epsilon 0.872623779757981 - Mean Reward 637.61 - Mean Length 220.97 - Mean Loss 0.957 - Mean Q Value 29.975 - Time Delta 110.954 - Time 2024-07-19T07:34:58
+Episode 2640 - Step 549042 - Epsilon 0.8717430924979707 - Mean Reward 623.89 - Mean Length 204.6 - Mean Loss 0.942 - Mean Q Value 29.803 - Time Delta 92.726 - Time 2024-07-19T07:36:31
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_55.chkpt at step 550000
+Episode 2660 - Step 554267 - Epsilon 0.8706051213402115 - Mean Reward 651.97 - Mean Length 217.9 - Mean Loss 0.95 - Mean Q Value 29.822 - Time Delta 119.886 - Time 2024-07-19T07:38:31
+Episode 2680 - Step 557937 - Epsilon 0.8698067073698865 - Mean Reward 674.58 - Mean Length 219.27 - Mean Loss 0.946 - Mean Q Value 29.739 - Time Delta 83.85 - Time 2024-07-19T07:39:54
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_56.chkpt at step 560000
+Episode 2700 - Step 562798 - Epsilon 0.8687503166559762 - Mean Reward 698.85 - Mean Length 226.83 - Mean Loss 0.959 - Mean Q Value 29.955 - Time Delta 111.742 - Time 2024-07-19T07:41:46
+Episode 2720 - Step 566899 - Epsilon 0.867860086714528 - Mean Reward 684.44 - Mean Length 218.96 - Mean Loss 0.976 - Mean Q Value 30.22 - Time Delta 95.05 - Time 2024-07-19T07:43:21
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_57.chkpt at step 570000
+Episode 2740 - Step 570732 - Epsilon 0.8670288580084742 - Mean Reward 677.05 - Mean Length 216.9 - Mean Loss 0.968 - Mean Q Value 30.296 - Time Delta 87.831 - Time 2024-07-19T07:44:49
+Episode 2760 - Step 574846 - Epsilon 0.8661375771362358 - Mean Reward 638.66 - Mean Length 205.79 - Mean Loss 0.937 - Mean Q Value 30.04 - Time Delta 94.468 - Time 2024-07-19T07:46:23
+Episode 2780 - Step 578889 - Epsilon 0.8652625707514928 - Mean Reward 624.14 - Mean Length 209.52 - Mean Loss 0.937 - Mean Q Value 30.294 - Time Delta 93.839 - Time 2024-07-19T07:47:57
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_58.chkpt at step 580000
+Episode 2800 - Step 582843 - Epsilon 0.8644076811921035 - Mean Reward 607.25 - Mean Length 200.45 - Mean Loss 0.974 - Mean Q Value 30.203 - Time Delta 91.44 - Time 2024-07-19T07:49:29
+Episode 2820 - Step 586433 - Epsilon 0.8636322232400013 - Mean Reward 623.64 - Mean Length 195.34 - Mean Loss 1.013 - Mean Q Value 30.188 - Time Delta 83.074 - Time 2024-07-19T07:50:52
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_59.chkpt at step 590000
+Episode 2840 - Step 591097 - Epsilon 0.8626258147919071 - Mean Reward 645.11 - Mean Length 203.65 - Mean Loss 1.056 - Mean Q Value 30.411 - Time Delta 107.04 - Time 2024-07-19T07:52:39
+Episode 2860 - Step 595833 - Epsilon 0.8616050700995598 - Mean Reward 662.64 - Mean Length 209.87 - Mean Loss 1.094 - Mean Q Value 30.705 - Time Delta 109.519 - Time 2024-07-19T07:54:28
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_60.chkpt at step 600000
+Episode 2880 - Step 600713 - Epsilon 0.8605545527284697 - Mean Reward 696.65 - Mean Length 218.24 - Mean Loss 1.12 - Mean Q Value 30.782 - Time Delta 113.113 - Time 2024-07-19T07:56:21
+Episode 2900 - Step 604732 - Epsilon 0.8596903446626994 - Mean Reward 729.04 - Mean Length 218.89 - Mean Loss 1.097 - Mean Q Value 31.166 - Time Delta 93.205 - Time 2024-07-19T07:57:55
+Episode 2920 - Step 609586 - Epsilon 0.8586477430254674 - Mean Reward 749.1 - Mean Length 231.53 - Mean Loss 1.065 - Mean Q Value 31.291 - Time Delta 112.366 - Time 2024-07-19T07:59:47
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_61.chkpt at step 610000
+Episode 2940 - Step 613402 - Epsilon 0.8578289835865092 - Mean Reward 734.14 - Mean Length 223.05 - Mean Loss 1.066 - Mean Q Value 31.481 - Time Delta 88.056 - Time 2024-07-19T08:01:15
+Episode 2960 - Step 617342 - Epsilon 0.8569844379390058 - Mean Reward 726.97 - Mean Length 215.09 - Mean Loss 1.069 - Mean Q Value 31.805 - Time Delta 90.436 - Time 2024-07-19T08:02:46
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_62.chkpt at step 620000
+Episode 2980 - Step 620569 - Epsilon 0.856293344464528 - Mean Reward 695.23 - Mean Length 198.56 - Mean Loss 1.087 - Mean Q Value 32.282 - Time Delta 73.466 - Time 2024-07-19T08:03:59
+Episode 3000 - Step 624215 - Epsilon 0.855513188593475 - Mean Reward 670.94 - Mean Length 194.83 - Mean Loss 1.127 - Mean Q Value 32.553 - Time Delta 83.612 - Time 2024-07-19T08:05:23
+Episode 3020 - Step 627692 - Epsilon 0.8547698567786646 - Mean Reward 632.45 - Mean Length 181.06 - Mean Loss 1.164 - Mean Q Value 33.164 - Time Delta 80.135 - Time 2024-07-19T08:06:43
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_63.chkpt at step 630000
+Episode 3040 - Step 632019 - Epsilon 0.8538457093088305 - Mean Reward 649.0 - Mean Length 186.17 - Mean Loss 1.182 - Mean Q Value 33.503 - Time Delta 100.448 - Time 2024-07-19T08:08:23
+Episode 3060 - Step 635906 - Epsilon 0.8530163876489507 - Mean Reward 680.49 - Mean Length 185.64 - Mean Loss 1.191 - Mean Q Value 33.835 - Time Delta 89.076 - Time 2024-07-19T08:09:52
+Episode 3080 - Step 639427 - Epsilon 0.8522658502585313 - Mean Reward 683.79 - Mean Length 188.58 - Mean Loss 1.189 - Mean Q Value 34.326 - Time Delta 80.295 - Time 2024-07-19T08:11:13
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_64.chkpt at step 640000
+Episode 3100 - Step 645640 - Epsilon 0.8509430957112744 - Mean Reward 708.73 - Mean Length 214.25 - Mean Loss 1.182 - Mean Q Value 34.682 - Time Delta 142.444 - Time 2024-07-19T08:13:35
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_65.chkpt at step 650000
+Episode 3120 - Step 650748 - Epsilon 0.8498571347757866 - Mean Reward 735.83 - Mean Length 230.56 - Mean Loss 1.158 - Mean Q Value 34.168 - Time Delta 116.385 - Time 2024-07-19T08:15:31
+Episode 3140 - Step 656032 - Epsilon 0.8487352145518126 - Mean Reward 743.23 - Mean Length 240.13 - Mean Loss 1.142 - Mean Q Value 33.48 - Time Delta 120.509 - Time 2024-07-19T08:17:32
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_66.chkpt at step 660000
+Episode 3160 - Step 660269 - Epsilon 0.8478366676402764 - Mean Reward 704.53 - Mean Length 243.63 - Mean Loss 1.139 - Mean Q Value 32.139 - Time Delta 97.098 - Time 2024-07-19T08:19:09
+Episode 3180 - Step 663998 - Epsilon 0.8470466401168023 - Mean Reward 708.53 - Mean Length 245.71 - Mean Loss 1.089 - Mean Q Value 30.449 - Time Delta 85.461 - Time 2024-07-19T08:20:34
+Episode 3200 - Step 669499 - Epsilon 0.8458825397273072 - Mean Reward 707.03 - Mean Length 238.59 - Mean Loss 1.065 - Mean Q Value 29.387 - Time Delta 124.838 - Time 2024-07-19T08:22:39
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_67.chkpt at step 670000
+Episode 3220 - Step 672249 - Epsilon 0.8453011952685486 - Mean Reward 673.59 - Mean Length 215.01 - Mean Loss 1.066 - Mean Q Value 29.05 - Time Delta 63.186 - Time 2024-07-19T08:23:42
+Episode 3240 - Step 676601 - Epsilon 0.8443820075818469 - Mean Reward 655.34 - Mean Length 205.69 - Mean Loss 1.048 - Mean Q Value 29.137 - Time Delta 99.291 - Time 2024-07-19T08:25:22
+Episode 3260 - Step 679614 - Epsilon 0.8437462162400506 - Mean Reward 663.97 - Mean Length 193.45 - Mean Loss 1.033 - Mean Q Value 29.989 - Time Delta 68.944 - Time 2024-07-19T08:26:31
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_68.chkpt at step 680000
+Episode 3280 - Step 682566 - Epsilon 0.8431237611687451 - Mean Reward 660.51 - Mean Length 185.68 - Mean Loss 1.097 - Mean Q Value 31.409 - Time Delta 67.646 - Time 2024-07-19T08:27:38
+Episode 3300 - Step 686680 - Epsilon 0.842257054052456 - Mean Reward 668.03 - Mean Length 171.81 - Mean Loss 1.112 - Mean Q Value 32.634 - Time Delta 93.517 - Time 2024-07-19T08:29:12
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_69.chkpt at step 690000
+Episode 3320 - Step 690174 - Epsilon 0.8415216636522288 - Mean Reward 666.72 - Mean Length 179.25 - Mean Loss 1.105 - Mean Q Value 33.96 - Time Delta 79.729 - Time 2024-07-19T08:30:32
+Episode 3340 - Step 695489 - Epsilon 0.8404042341584428 - Mean Reward 702.35 - Mean Length 188.88 - Mean Loss 1.128 - Mean Q Value 35.095 - Time Delta 120.731 - Time 2024-07-19T08:32:32
+Episode 3360 - Step 698977 - Epsilon 0.8396717209967467 - Mean Reward 695.9 - Mean Length 193.63 - Mean Loss 1.145 - Mean Q Value 35.928 - Time Delta 79.782 - Time 2024-07-19T08:33:52
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_70.chkpt at step 700000
+Episode 3380 - Step 701440 - Epsilon 0.8391548522171672 - Mean Reward 662.6 - Mean Length 188.74 - Mean Loss 1.149 - Mean Q Value 35.972 - Time Delta 56.489 - Time 2024-07-19T08:34:49
+Episode 3400 - Step 706329 - Epsilon 0.838129821620204 - Mean Reward 649.85 - Mean Length 196.49 - Mean Loss 1.152 - Mean Q Value 35.48 - Time Delta 111.515 - Time 2024-07-19T08:36:40
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_71.chkpt at step 710000
+Episode 3420 - Step 712333 - Epsilon 0.836872732282206 - Mean Reward 685.47 - Mean Length 221.59 - Mean Loss 1.174 - Mean Q Value 34.525 - Time Delta 136.625 - Time 2024-07-19T08:38:57
+Episode 3440 - Step 717194 - Epsilon 0.8358563402773906 - Mean Reward 642.17 - Mean Length 217.05 - Mean Loss 1.156 - Mean Q Value 33.331 - Time Delta 110.733 - Time 2024-07-19T08:40:47
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_72.chkpt at step 720000
+Episode 3460 - Step 722183 - Epsilon 0.834814468199142 - Mean Reward 668.46 - Mean Length 232.06 - Mean Loss 1.113 - Mean Q Value 31.675 - Time Delta 113.846 - Time 2024-07-19T08:42:41
+Episode 3480 - Step 726289 - Epsilon 0.8339579707128939 - Mean Reward 720.25 - Mean Length 248.49 - Mean Loss 1.05 - Mean Q Value 30.358 - Time Delta 93.718 - Time 2024-07-19T08:44:15
+Episode 3500 - Step 729768 - Epsilon 0.8332329510157828 - Mean Reward 681.31 - Mean Length 234.39 - Mean Loss 1.0 - Mean Q Value 29.354 - Time Delta 79.532 - Time 2024-07-19T08:45:35
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_73.chkpt at step 730000
+Episode 3520 - Step 734480 - Epsilon 0.8322519803818739 - Mean Reward 683.2 - Mean Length 221.47 - Mean Loss 0.965 - Mean Q Value 28.934 - Time Delta 107.986 - Time 2024-07-19T08:47:23
+Episode 3540 - Step 739216 - Epsilon 0.8312671770324921 - Mean Reward 717.44 - Mean Length 220.22 - Mean Loss 0.956 - Mean Q Value 29.002 - Time Delta 107.945 - Time 2024-07-19T08:49:11
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_74.chkpt at step 740000
+Episode 3560 - Step 743073 - Epsilon 0.8304660138796435 - Mean Reward 711.63 - Mean Length 208.9 - Mean Loss 1.028 - Mean Q Value 29.97 - Time Delta 87.888 - Time 2024-07-19T08:50:38
+Episode 3580 - Step 746633 - Epsilon 0.8297272278433911 - Mean Reward 707.81 - Mean Length 203.44 - Mean Loss 1.094 - Mean Q Value 31.359 - Time Delta 80.839 - Time 2024-07-19T08:51:59
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_75.chkpt at step 750000
+Episode 3600 - Step 750664 - Epsilon 0.8288914913024239 - Mean Reward 736.09 - Mean Length 208.96 - Mean Loss 1.155 - Mean Q Value 32.716 - Time Delta 91.744 - Time 2024-07-19T08:53:31
+Episode 3620 - Step 754401 - Epsilon 0.8281174609550357 - Mean Reward 707.31 - Mean Length 199.21 - Mean Loss 1.219 - Mean Q Value 33.831 - Time Delta 84.628 - Time 2024-07-19T08:54:56
+Episode 3640 - Step 758890 - Epsilon 0.8271886273075086 - Mean Reward 653.61 - Mean Length 196.74 - Mean Loss 1.237 - Mean Q Value 34.378 - Time Delta 101.926 - Time 2024-07-19T08:56:38
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_76.chkpt at step 760000
+Episode 3660 - Step 764831 - Epsilon 0.8259609571693929 - Mean Reward 672.06 - Mean Length 217.58 - Mean Loss 1.203 - Mean Q Value 34.067 - Time Delta 135.025 - Time 2024-07-19T08:58:53
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_77.chkpt at step 770000
+Episode 3680 - Step 770086 - Epsilon 0.8248765632934055 - Mean Reward 688.36 - Mean Length 234.53 - Mean Loss 1.166 - Mean Q Value 32.752 - Time Delta 119.859 - Time 2024-07-19T09:00:52
+Episode 3700 - Step 773094 - Epsilon 0.8242564892172866 - Mean Reward 672.1 - Mean Length 224.3 - Mean Loss 1.121 - Mean Q Value 31.505 - Time Delta 69.527 - Time 2024-07-19T09:02:02
+Episode 3720 - Step 777446 - Epsilon 0.8233601857223756 - Mean Reward 689.9 - Mean Length 230.45 - Mean Loss 1.05 - Mean Q Value 30.453 - Time Delta 103.199 - Time 2024-07-19T09:03:45
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_78.chkpt at step 780000
+Episode 3740 - Step 780822 - Epsilon 0.8226655628108045 - Mean Reward 687.76 - Mean Length 219.32 - Mean Loss 1.044 - Mean Q Value 29.946 - Time Delta 81.291 - Time 2024-07-19T09:05:06
+Episode 3760 - Step 784602 - Epsilon 0.8218885109715232 - Mean Reward 661.5 - Mean Length 197.71 - Mean Loss 1.049 - Mean Q Value 30.293 - Time Delta 89.388 - Time 2024-07-19T09:06:36
+Episode 3780 - Step 789884 - Epsilon 0.8208039233136625 - Mean Reward 639.37 - Mean Length 197.98 - Mean Loss 1.058 - Mean Q Value 31.147 - Time Delta 124.451 - Time 2024-07-19T09:08:40
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_79.chkpt at step 790000
+Episode 3800 - Step 794238 - Epsilon 0.8199109642125457 - Mean Reward 663.59 - Mean Length 211.44 - Mean Loss 1.054 - Mean Q Value 31.714 - Time Delta 102.306 - Time 2024-07-19T09:10:23
+Episode 3820 - Step 798553 - Epsilon 0.8190269620436735 - Mean Reward 644.7 - Mean Length 211.07 - Mean Loss 1.068 - Mean Q Value 31.92 - Time Delta 102.21 - Time 2024-07-19T09:12:05
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_80.chkpt at step 800000
+Episode 3840 - Step 803466 - Epsilon 0.8180216095901971 - Mean Reward 659.74 - Mean Length 226.44 - Mean Loss 1.052 - Mean Q Value 31.85 - Time Delta 115.759 - Time 2024-07-19T09:14:01
+Episode 3860 - Step 806983 - Epsilon 0.8173026801056892 - Mean Reward 667.82 - Mean Length 223.81 - Mean Loss 1.005 - Mean Q Value 31.104 - Time Delta 83.324 - Time 2024-07-19T09:15:24
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_81.chkpt at step 810000
+Episode 3880 - Step 812779 - Epsilon 0.8161192659647303 - Mean Reward 689.6 - Mean Length 228.95 - Mean Loss 0.968 - Mean Q Value 30.499 - Time Delta 137.303 - Time 2024-07-19T09:17:41
+Episode 3900 - Step 817522 - Epsilon 0.815152125930548 - Mean Reward 699.47 - Mean Length 232.84 - Mean Loss 0.942 - Mean Q Value 30.212 - Time Delta 111.028 - Time 2024-07-19T09:19:32
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_82.chkpt at step 820000
+Episode 3920 - Step 821111 - Epsilon 0.8144210586181909 - Mean Reward 705.34 - Mean Length 225.58 - Mean Loss 0.903 - Mean Q Value 30.104 - Time Delta 83.711 - Time 2024-07-19T09:20:56
+Episode 3940 - Step 824487 - Epsilon 0.813733977147902 - Mean Reward 710.64 - Mean Length 210.21 - Mean Loss 0.895 - Mean Q Value 30.413 - Time Delta 78.271 - Time 2024-07-19T09:22:14
+Episode 3960 - Step 829319 - Epsilon 0.8127515798679913 - Mean Reward 723.58 - Mean Length 223.36 - Mean Loss 0.916 - Mean Q Value 31.029 - Time Delta 112.21 - Time 2024-07-19T09:24:06
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_83.chkpt at step 830000
+Episode 3980 - Step 833589 - Epsilon 0.8118844303713593 - Mean Reward 712.38 - Mean Length 208.1 - Mean Loss 0.95 - Mean Q Value 31.95 - Time Delta 99.58 - Time 2024-07-19T09:25:46
+Episode 4000 - Step 839516 - Epsilon 0.8106823113061358 - Mean Reward 704.52 - Mean Length 219.94 - Mean Loss 1.006 - Mean Q Value 32.608 - Time Delta 137.679 - Time 2024-07-19T09:28:04
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_84.chkpt at step 840000
+Episode 4020 - Step 844013 - Epsilon 0.8097714137379001 - Mean Reward 735.42 - Mean Length 229.02 - Mean Loss 1.082 - Mean Q Value 33.091 - Time Delta 105.064 - Time 2024-07-19T09:29:49
+Episode 4040 - Step 847911 - Epsilon 0.8089826757715045 - Mean Reward 748.93 - Mean Length 234.24 - Mean Loss 1.114 - Mean Q Value 33.182 - Time Delta 89.279 - Time 2024-07-19T09:31:18
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_85.chkpt at step 850000
+Episode 4060 - Step 852227 - Epsilon 0.8081102541112963 - Mean Reward 738.92 - Mean Length 229.08 - Mean Loss 1.141 - Mean Q Value 33.343 - Time Delta 100.382 - Time 2024-07-19T09:32:58
+Episode 4080 - Step 856251 - Epsilon 0.8072977038752732 - Mean Reward 731.73 - Mean Length 226.62 - Mean Loss 1.128 - Mean Q Value 32.943 - Time Delta 93.372 - Time 2024-07-19T09:34:32
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_86.chkpt at step 860000
+Episode 4100 - Step 860019 - Epsilon 0.8065375874141624 - Mean Reward 730.21 - Mean Length 205.03 - Mean Loss 1.122 - Mean Q Value 33.268 - Time Delta 87.866 - Time 2024-07-19T09:36:00
+Episode 4120 - Step 863569 - Epsilon 0.8058221027590792 - Mean Reward 697.23 - Mean Length 195.56 - Mean Loss 1.11 - Mean Q Value 33.822 - Time Delta 82.801 - Time 2024-07-19T09:37:22
+Episode 4140 - Step 866387 - Epsilon 0.8052546009426551 - Mean Reward 672.06 - Mean Length 184.76 - Mean Loss 1.088 - Mean Q Value 34.537 - Time Delta 65.549 - Time 2024-07-19T09:38:28
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_87.chkpt at step 870000
+Episode 4160 - Step 870243 - Epsilon 0.8044787094500399 - Mean Reward 659.7 - Mean Length 180.16 - Mean Loss 1.054 - Mean Q Value 35.289 - Time Delta 89.359 - Time 2024-07-19T09:39:57
+Episode 4180 - Step 874689 - Epsilon 0.8035850280081166 - Mean Reward 643.05 - Mean Length 184.38 - Mean Loss 1.088 - Mean Q Value 35.995 - Time Delta 102.76 - Time 2024-07-19T09:41:40
+Episode 4200 - Step 878207 - Epsilon 0.802878585591172 - Mean Reward 631.07 - Mean Length 181.88 - Mean Loss 1.095 - Mean Q Value 36.052 - Time Delta 81.431 - Time 2024-07-19T09:43:02
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_88.chkpt at step 880000
+Episode 4220 - Step 883260 - Epsilon 0.8018649894385441 - Mean Reward 656.35 - Mean Length 196.91 - Mean Loss 1.085 - Mean Q Value 35.705 - Time Delta 116.629 - Time 2024-07-19T09:44:58
+Episode 4240 - Step 887533 - Epsilon 0.8010088544209738 - Mean Reward 687.33 - Mean Length 211.46 - Mean Loss 1.098 - Mean Q Value 34.947 - Time Delta 98.353 - Time 2024-07-19T09:46:37
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_89.chkpt at step 890000
+Episode 4260 - Step 893082 - Epsilon 0.7998984251483059 - Mean Reward 698.15 - Mean Length 228.39 - Mean Loss 1.108 - Mean Q Value 34.011 - Time Delta 127.615 - Time 2024-07-19T09:48:44
+Episode 4280 - Step 897984 - Epsilon 0.7989187499242889 - Mean Reward 727.05 - Mean Length 232.95 - Mean Loss 1.063 - Mean Q Value 32.91 - Time Delta 113.777 - Time 2024-07-19T09:50:38
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_90.chkpt at step 900000
+Episode 4300 - Step 902150 - Epsilon 0.7980871090943072 - Mean Reward 758.7 - Mean Length 239.43 - Mean Loss 1.053 - Mean Q Value 32.02 - Time Delta 96.723 - Time 2024-07-19T09:52:15
+Episode 4320 - Step 905532 - Epsilon 0.7974126115431834 - Mean Reward 733.35 - Mean Length 222.72 - Mean Loss 1.028 - Mean Q Value 31.7 - Time Delta 78.692 - Time 2024-07-19T09:53:33
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_91.chkpt at step 910000
+Episode 4340 - Step 910024 - Epsilon 0.7965176197003991 - Mean Reward 712.1 - Mean Length 224.91 - Mean Loss 1.01 - Mean Q Value 31.373 - Time Delta 104.307 - Time 2024-07-19T09:55:18
+Episode 4360 - Step 916184 - Epsilon 0.7952919264387268 - Mean Reward 729.4 - Mean Length 231.02 - Mean Loss 1.02 - Mean Q Value 31.218 - Time Delta 142.234 - Time 2024-07-19T09:57:40
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_92.chkpt at step 920000
+Episode 4380 - Step 920502 - Epsilon 0.7944338719150152 - Mean Reward 710.72 - Mean Length 225.18 - Mean Loss 1.036 - Mean Q Value 31.483 - Time Delta 99.264 - Time 2024-07-19T09:59:19
+Episode 4400 - Step 925225 - Epsilon 0.7934963975737674 - Mean Reward 665.85 - Mean Length 230.75 - Mean Loss 1.028 - Mean Q Value 31.145 - Time Delta 110.649 - Time 2024-07-19T10:01:10
+Episode 4420 - Step 928749 - Epsilon 0.7927976350101651 - Mean Reward 676.53 - Mean Length 232.17 - Mean Loss 1.022 - Mean Q Value 30.369 - Time Delta 82.444 - Time 2024-07-19T10:02:32
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_93.chkpt at step 930000
+Episode 4440 - Step 933677 - Epsilon 0.7918215096183873 - Mean Reward 678.09 - Mean Length 236.53 - Mean Loss 1.007 - Mean Q Value 30.164 - Time Delta 115.78 - Time 2024-07-19T10:04:28
+Episode 4460 - Step 938957 - Epsilon 0.7907769946265377 - Mean Reward 646.72 - Mean Length 227.73 - Mean Loss 0.954 - Mean Q Value 29.754 - Time Delta 124.065 - Time 2024-07-19T10:06:32
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_94.chkpt at step 940000
+Episode 4480 - Step 943146 - Epsilon 0.7899492867994933 - Mean Reward 665.31 - Mean Length 226.44 - Mean Loss 0.93 - Mean Q Value 29.155 - Time Delta 98.252 - Time 2024-07-19T10:08:10
+Episode 4500 - Step 949703 - Epsilon 0.7886554230420062 - Mean Reward 694.02 - Mean Length 244.78 - Mean Loss 0.887 - Mean Q Value 28.946 - Time Delta 154.02 - Time 2024-07-19T10:10:44
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_95.chkpt at step 950000
+Episode 4520 - Step 955501 - Epsilon 0.7875130949656383 - Mean Reward 717.75 - Mean Length 267.52 - Mean Loss 0.867 - Mean Q Value 28.773 - Time Delta 135.421 - Time 2024-07-19T10:13:00
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_96.chkpt at step 960000
+Episode 4540 - Step 961077 - Epsilon 0.7864160663805451 - Mean Reward 738.83 - Mean Length 274.0 - Mean Loss 0.853 - Mean Q Value 28.2 - Time Delta 130.532 - Time 2024-07-19T10:15:10
+Episode 4560 - Step 965336 - Epsilon 0.7855791753880451 - Mean Reward 762.6 - Mean Length 263.79 - Mean Loss 0.877 - Mean Q Value 27.887 - Time Delta 100.571 - Time 2024-07-19T10:16:51
+Episode 4580 - Step 968476 - Epsilon 0.7849627376416896 - Mean Reward 728.59 - Mean Length 253.3 - Mean Loss 0.878 - Mean Q Value 28.244 - Time Delta 73.774 - Time 2024-07-19T10:18:05
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_97.chkpt at step 970000
+Episode 4600 - Step 973018 - Epsilon 0.7840719182000734 - Mean Reward 708.64 - Mean Length 233.15 - Mean Loss 0.902 - Mean Q Value 28.732 - Time Delta 107.667 - Time 2024-07-19T10:19:52
+Episode 4620 - Step 977051 - Epsilon 0.7832817759870487 - Mean Reward 689.47 - Mean Length 215.5 - Mean Loss 0.923 - Mean Q Value 29.552 - Time Delta 94.02 - Time 2024-07-19T10:21:26
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_98.chkpt at step 980000
+Episode 4640 - Step 980482 - Epsilon 0.7826102040212575 - Mean Reward 668.0 - Mean Length 194.05 - Mean Loss 0.971 - Mean Q Value 30.991 - Time Delta 81.024 - Time 2024-07-19T10:22:47
+Episode 4660 - Step 984882 - Epsilon 0.7817498059948359 - Mean Reward 656.37 - Mean Length 195.46 - Mean Loss 0.984 - Mean Q Value 32.323 - Time Delta 104.877 - Time 2024-07-19T10:24:32
+Episode 4680 - Step 988539 - Epsilon 0.7810354177597914 - Mean Reward 665.68 - Mean Length 200.63 - Mean Loss 0.973 - Mean Q Value 33.125 - Time Delta 86.062 - Time 2024-07-19T10:25:58
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_99.chkpt at step 990000
+Episode 4700 - Step 992306 - Epsilon 0.780300223801904 - Mean Reward 690.37 - Mean Length 192.88 - Mean Loss 0.984 - Mean Q Value 34.043 - Time Delta 88.33 - Time 2024-07-19T10:27:27
+Episode 4720 - Step 995327 - Epsilon 0.7797111244707927 - Mean Reward 671.78 - Mean Length 182.76 - Mean Loss 1.001 - Mean Q Value 35.158 - Time Delta 70.996 - Time 2024-07-19T10:28:38
+Episode 4740 - Step 998390 - Epsilon 0.7791142891450301 - Mean Reward 654.37 - Mean Length 179.08 - Mean Loss 0.984 - Mean Q Value 35.95 - Time Delta 70.92 - Time 2024-07-19T10:29:49
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_100.chkpt at step 1000000
+Episode 4760 - Step 1004098 - Epsilon 0.7780032858048014 - Mean Reward 675.7 - Mean Length 192.16 - Mean Loss 0.988 - Mean Q Value 36.339 - Time Delta 131.892 - Time 2024-07-19T10:32:00
+Episode 4780 - Step 1008719 - Epsilon 0.7771050163592543 - Mean Reward 691.32 - Mean Length 201.8 - Mean Loss 1.009 - Mean Q Value 36.317 - Time Delta 107.068 - Time 2024-07-19T10:33:47
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_101.chkpt at step 1010000
+Episode 4800 - Step 1012881 - Epsilon 0.7762968590053766 - Mean Reward 685.28 - Mean Length 205.75 - Mean Loss 1.012 - Mean Q Value 35.936 - Time Delta 96.826 - Time 2024-07-19T10:35:24
+Episode 4820 - Step 1017562 - Epsilon 0.7753889288487529 - Mean Reward 693.17 - Mean Length 222.35 - Mean Loss 0.994 - Mean Q Value 34.899 - Time Delta 108.864 - Time 2024-07-19T10:37:13
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_102.chkpt at step 1020000
+Episode 4840 - Step 1020713 - Epsilon 0.7747783566643379 - Mean Reward 718.62 - Mean Length 223.23 - Mean Loss 0.982 - Mean Q Value 33.689 - Time Delta 73.373 - Time 2024-07-19T10:38:27
+Episode 4860 - Step 1023667 - Epsilon 0.7742063939995749 - Mean Reward 664.75 - Mean Length 195.69 - Mean Loss 0.982 - Mean Q Value 33.045 - Time Delta 68.896 - Time 2024-07-19T10:39:35
+Episode 4880 - Step 1029012 - Epsilon 0.7731725514660931 - Mean Reward 699.67 - Mean Length 202.93 - Mean Loss 0.97 - Mean Q Value 33.013 - Time Delta 123.961 - Time 2024-07-19T10:41:39
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_103.chkpt at step 1030000
+Episode 4900 - Step 1034418 - Epsilon 0.7721283144342317 - Mean Reward 711.55 - Mean Length 215.37 - Mean Loss 0.97 - Mean Q Value 32.996 - Time Delta 125.41 - Time 2024-07-19T10:43:45
+Episode 4920 - Step 1038134 - Epsilon 0.7714113402264844 - Mean Reward 714.95 - Mean Length 205.72 - Mean Loss 0.999 - Mean Q Value 33.429 - Time Delta 86.009 - Time 2024-07-19T10:45:11
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_104.chkpt at step 1040000
+Episode 4940 - Step 1042868 - Epsilon 0.7704989148253776 - Mean Reward 741.16 - Mean Length 221.55 - Mean Loss 1.045 - Mean Q Value 33.773 - Time Delta 109.606 - Time 2024-07-19T10:47:00
+Episode 4960 - Step 1046429 - Epsilon 0.7698132833176621 - Mean Reward 774.38 - Mean Length 227.62 - Mean Loss 1.059 - Mean Q Value 33.774 - Time Delta 82.747 - Time 2024-07-19T10:48:23
+Episode 4980 - Step 1049480 - Epsilon 0.7692263320393617 - Mean Reward 728.38 - Mean Length 204.68 - Mean Loss 1.095 - Mean Q Value 33.945 - Time Delta 70.709 - Time 2024-07-19T10:49:34
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_105.chkpt at step 1050000
+Episode 5000 - Step 1052755 - Epsilon 0.7685967856569416 - Mean Reward 696.36 - Mean Length 183.37 - Mean Loss 1.118 - Mean Q Value 34.651 - Time Delta 75.383 - Time 2024-07-19T10:50:49
+Episode 5020 - Step 1056780 - Epsilon 0.7678237740313392 - Mean Reward 694.59 - Mean Length 186.46 - Mean Loss 1.113 - Mean Q Value 35.336 - Time Delta 93.002 - Time 2024-07-19T10:52:22
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_106.chkpt at step 1060000
+Episode 5040 - Step 1060370 - Epsilon 0.7671349612589109 - Mean Reward 661.49 - Mean Length 175.02 - Mean Loss 1.108 - Mean Q Value 36.011 - Time Delta 86.528 - Time 2024-07-19T10:53:49
+Episode 5060 - Step 1063985 - Epsilon 0.7664419761407724 - Mean Reward 664.3 - Mean Length 175.56 - Mean Loss 1.093 - Mean Q Value 36.949 - Time Delta 83.716 - Time 2024-07-19T10:55:13
+Episode 5080 - Step 1067929 - Epsilon 0.7656866367013121 - Mean Reward 676.54 - Mean Length 184.49 - Mean Loss 1.085 - Mean Q Value 37.628 - Time Delta 90.735 - Time 2024-07-19T10:56:43
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_107.chkpt at step 1070000
+Episode 5100 - Step 1072558 - Epsilon 0.7648010582468341 - Mean Reward 687.88 - Mean Length 198.03 - Mean Loss 1.065 - Mean Q Value 37.487 - Time Delta 107.301 - Time 2024-07-19T10:58:31
+Episode 5120 - Step 1076489 - Epsilon 0.764049819113424 - Mean Reward 690.48 - Mean Length 197.09 - Mean Loss 1.051 - Mean Q Value 36.871 - Time Delta 90.817 - Time 2024-07-19T11:00:01
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_108.chkpt at step 1080000
+Episode 5140 - Step 1080411 - Epsilon 0.763301035323317 - Mean Reward 709.51 - Mean Length 200.41 - Mean Loss 1.013 - Mean Q Value 36.466 - Time Delta 90.792 - Time 2024-07-19T11:01:32
+Episode 5160 - Step 1085181 - Epsilon 0.7623913412377552 - Mean Reward 695.2 - Mean Length 211.96 - Mean Loss 1.05 - Mean Q Value 35.704 - Time Delta 111.966 - Time 2024-07-19T11:03:24
+Episode 5180 - Step 1089501 - Epsilon 0.761568402952903 - Mean Reward 687.69 - Mean Length 215.72 - Mean Loss 1.07 - Mean Q Value 34.545 - Time Delta 103.771 - Time 2024-07-19T11:05:08
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_109.chkpt at step 1090000
+Episode 5200 - Step 1094140 - Epsilon 0.7606856858516323 - Mean Reward 699.59 - Mean Length 215.82 - Mean Loss 1.082 - Mean Q Value 33.877 - Time Delta 109.362 - Time 2024-07-19T11:06:57
+Episode 5220 - Step 1098071 - Epsilon 0.7599384891142938 - Mean Reward 700.55 - Mean Length 215.82 - Mean Loss 1.095 - Mean Q Value 33.553 - Time Delta 91.758 - Time 2024-07-19T11:08:29
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_110.chkpt at step 1100000
+Episode 5240 - Step 1101816 - Epsilon 0.7592273295783694 - Mean Reward 701.13 - Mean Length 214.05 - Mean Loss 1.127 - Mean Q Value 33.082 - Time Delta 88.202 - Time 2024-07-19T11:09:57
+Episode 5260 - Step 1107709 - Epsilon 0.7581096213092164 - Mean Reward 724.06 - Mean Length 225.28 - Mean Loss 1.086 - Mean Q Value 32.567 - Time Delta 137.589 - Time 2024-07-19T11:12:15
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_111.chkpt at step 1110000
+Episode 5280 - Step 1113114 - Epsilon 0.7570859173510692 - Mean Reward 742.87 - Mean Length 236.13 - Mean Loss 1.053 - Mean Q Value 32.405 - Time Delta 127.306 - Time 2024-07-19T11:14:22
+Episode 5300 - Step 1117601 - Epsilon 0.7562371322684013 - Mean Reward 751.63 - Mean Length 234.61 - Mean Loss 1.032 - Mean Q Value 32.218 - Time Delta 104.89 - Time 2024-07-19T11:16:07
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_112.chkpt at step 1120000
+Episode 5320 - Step 1120672 - Epsilon 0.755656753958704 - Mean Reward 744.78 - Mean Length 226.01 - Mean Loss 1.019 - Mean Q Value 31.881 - Time Delta 72.263 - Time 2024-07-19T11:17:19
+Episode 5340 - Step 1124687 - Epsilon 0.7548986439371659 - Mean Reward 737.68 - Mean Length 228.71 - Mean Loss 1.016 - Mean Q Value 31.771 - Time Delta 94.608 - Time 2024-07-19T11:18:54
+Episode 5360 - Step 1129319 - Epsilon 0.7540249771488546 - Mean Reward 728.01 - Mean Length 216.1 - Mean Loss 1.036 - Mean Q Value 32.347 - Time Delta 108.214 - Time 2024-07-19T11:20:42
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_113.chkpt at step 1130000
+Episode 5380 - Step 1132294 - Epsilon 0.7534643795000382 - Mean Reward 693.46 - Mean Length 191.8 - Mean Loss 1.094 - Mean Q Value 33.147 - Time Delta 69.316 - Time 2024-07-19T11:21:51
+Episode 5400 - Step 1136129 - Epsilon 0.7527423416180512 - Mean Reward 683.17 - Mean Length 185.28 - Mean Loss 1.128 - Mean Q Value 34.165 - Time Delta 90.208 - Time 2024-07-19T11:23:22
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_114.chkpt at step 1140000
+Episode 5420 - Step 1140436 - Epsilon 0.7519322624050039 - Mean Reward 711.87 - Mean Length 197.64 - Mean Loss 1.157 - Mean Q Value 35.323 - Time Delta 101.854 - Time 2024-07-19T11:25:03
+Episode 5440 - Step 1144035 - Epsilon 0.7512560155394562 - Mean Reward 690.66 - Mean Length 193.48 - Mean Loss 1.195 - Mean Q Value 36.279 - Time Delta 84.111 - Time 2024-07-19T11:26:28
+Episode 5460 - Step 1147793 - Epsilon 0.7505505418727187 - Mean Reward 684.71 - Mean Length 184.74 - Mean Loss 1.194 - Mean Q Value 36.783 - Time Delta 88.02 - Time 2024-07-19T11:27:56
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_115.chkpt at step 1150000
+Episode 5480 - Step 1153035 - Epsilon 0.7495675894848216 - Mean Reward 713.11 - Mean Length 207.41 - Mean Loss 1.164 - Mean Q Value 36.93 - Time Delta 123.252 - Time 2024-07-19T11:29:59
+Episode 5500 - Step 1155569 - Epsilon 0.749092888734817 - Mean Reward 683.44 - Mean Length 194.4 - Mean Loss 1.143 - Mean Q Value 36.591 - Time Delta 59.533 - Time 2024-07-19T11:30:58
+Episode 5520 - Step 1159895 - Epsilon 0.7482831826018371 - Mean Reward 676.09 - Mean Length 194.59 - Mean Loss 1.102 - Mean Q Value 36.2 - Time Delta 100.624 - Time 2024-07-19T11:32:39
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_116.chkpt at step 1160000
+Episode 5540 - Step 1163256 - Epsilon 0.747654701656542 - Mean Reward 701.71 - Mean Length 192.21 - Mean Loss 1.063 - Mean Q Value 35.913 - Time Delta 79.136 - Time 2024-07-19T11:33:58
+Episode 5560 - Step 1166724 - Epsilon 0.7470067658698744 - Mean Reward 698.39 - Mean Length 189.31 - Mean Loss 1.065 - Mean Q Value 35.982 - Time Delta 81.332 - Time 2024-07-19T11:35:19
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_117.chkpt at step 1170000
+Episode 5580 - Step 1171020 - Epsilon 0.7462049111760346 - Mean Reward 695.02 - Mean Length 179.85 - Mean Loss 1.063 - Mean Q Value 36.155 - Time Delta 100.604 - Time 2024-07-19T11:37:00
+Episode 5600 - Step 1176289 - Epsilon 0.745222619737594 - Mean Reward 709.84 - Mean Length 207.2 - Mean Loss 1.072 - Mean Q Value 36.52 - Time Delta 122.565 - Time 2024-07-19T11:39:03
+Episode 5620 - Step 1179277 - Epsilon 0.7446661462397411 - Mean Reward 679.04 - Mean Length 193.82 - Mean Loss 1.096 - Mean Q Value 36.376 - Time Delta 70.598 - Time 2024-07-19T11:40:13
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_118.chkpt at step 1180000
+Episode 5640 - Step 1183185 - Epsilon 0.7439389626109052 - Mean Reward 657.35 - Mean Length 199.29 - Mean Loss 1.127 - Mean Q Value 36.264 - Time Delta 91.74 - Time 2024-07-19T11:41:45
+Episode 5660 - Step 1186225 - Epsilon 0.7433737837237756 - Mean Reward 659.19 - Mean Length 195.01 - Mean Loss 1.124 - Mean Q Value 35.539 - Time Delta 72.727 - Time 2024-07-19T11:42:58
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_119.chkpt at step 1190000
+Episode 5680 - Step 1190217 - Epsilon 0.7426322666733781 - Mean Reward 671.11 - Mean Length 191.97 - Mean Loss 1.121 - Mean Q Value 34.975 - Time Delta 94.105 - Time 2024-07-19T11:44:32
+Episode 5700 - Step 1193921 - Epsilon 0.7419449074048793 - Mean Reward 685.46 - Mean Length 176.32 - Mean Loss 1.148 - Mean Q Value 34.788 - Time Delta 87.715 - Time 2024-07-19T11:46:00
+Episode 5720 - Step 1197389 - Epsilon 0.7413019198650729 - Mean Reward 701.87 - Mean Length 181.12 - Mean Loss 1.174 - Mean Q Value 35.673 - Time Delta 82.463 - Time 2024-07-19T11:47:22
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_120.chkpt at step 1200000
+Episode 5740 - Step 1201006 - Epsilon 0.740631900498349 - Mean Reward 713.54 - Mean Length 178.21 - Mean Loss 1.18 - Mean Q Value 36.534 - Time Delta 85.544 - Time 2024-07-19T11:48:48
+Episode 5760 - Step 1205394 - Epsilon 0.7398198726805756 - Mean Reward 723.02 - Mean Length 191.69 - Mean Loss 1.24 - Mean Q Value 37.657 - Time Delta 103.282 - Time 2024-07-19T11:50:31
+Episode 5780 - Step 1208255 - Epsilon 0.739290905644832 - Mean Reward 683.76 - Mean Length 180.38 - Mean Loss 1.273 - Mean Q Value 38.384 - Time Delta 67.687 - Time 2024-07-19T11:51:39
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_121.chkpt at step 1210000
+Episode 5800 - Step 1211401 - Epsilon 0.7387096818710197 - Mean Reward 679.83 - Mean Length 174.8 - Mean Loss 1.313 - Mean Q Value 38.993 - Time Delta 74.389 - Time 2024-07-19T11:52:53
+Episode 5820 - Step 1214931 - Epsilon 0.7380580580665204 - Mean Reward 676.34 - Mean Length 175.42 - Mean Loss 1.336 - Mean Q Value 39.122 - Time Delta 82.203 - Time 2024-07-19T11:54:15
+Episode 5840 - Step 1219058 - Epsilon 0.7372969592692249 - Mean Reward 674.0 - Mean Length 180.52 - Mean Loss 1.316 - Mean Q Value 38.829 - Time Delta 96.25 - Time 2024-07-19T11:55:51
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_122.chkpt at step 1220000
+Episode 5860 - Step 1221664 - Epsilon 0.7368167666798855 - Mean Reward 648.99 - Mean Length 162.7 - Mean Loss 1.286 - Mean Q Value 38.668 - Time Delta 61.922 - Time 2024-07-19T11:56:53
+Episode 5880 - Step 1226349 - Epsilon 0.7359542751291934 - Mean Reward 689.79 - Mean Length 180.94 - Mean Loss 1.259 - Mean Q Value 38.749 - Time Delta 110.754 - Time 2024-07-19T11:58:44
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_123.chkpt at step 1230000
+Episode 5900 - Step 1230251 - Epsilon 0.7352367016973548 - Mean Reward 709.62 - Mean Length 188.5 - Mean Loss 1.187 - Mean Q Value 38.705 - Time Delta 93.361 - Time 2024-07-19T12:00:17
+Episode 5920 - Step 1233240 - Epsilon 0.7346875012238667 - Mean Reward 711.68 - Mean Length 183.09 - Mean Loss 1.167 - Mean Q Value 38.672 - Time Delta 71.608 - Time 2024-07-19T12:01:29
+Episode 5940 - Step 1236663 - Epsilon 0.7340590612481589 - Mean Reward 710.4 - Mean Length 176.05 - Mean Loss 1.169 - Mean Q Value 38.989 - Time Delta 82.092 - Time 2024-07-19T12:02:51
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_124.chkpt at step 1240000
+Episode 5960 - Step 1241188 - Epsilon 0.7332291263516991 - Mean Reward 737.48 - Mean Length 195.24 - Mean Loss 1.179 - Mean Q Value 39.262 - Time Delta 106.905 - Time 2024-07-19T12:04:38
+Episode 5980 - Step 1245556 - Epsilon 0.732428877061215 - Mean Reward 726.5 - Mean Length 192.07 - Mean Loss 1.249 - Mean Q Value 39.191 - Time Delta 102.678 - Time 2024-07-19T12:06:21
+Episode 6000 - Step 1248397 - Epsilon 0.7319088540812275 - Mean Reward 688.85 - Mean Length 181.46 - Mean Loss 1.342 - Mean Q Value 39.099 - Time Delta 66.721 - Time 2024-07-19T12:07:27
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_125.chkpt at step 1250000
+Episode 6020 - Step 1251958 - Epsilon 0.731257562091738 - Mean Reward 712.7 - Mean Length 187.18 - Mean Loss 1.403 - Mean Q Value 39.034 - Time Delta 83.724 - Time 2024-07-19T12:08:51
+Episode 6040 - Step 1255725 - Epsilon 0.7305692243683993 - Mean Reward 725.92 - Mean Length 190.62 - Mean Loss 1.452 - Mean Q Value 38.808 - Time Delta 88.897 - Time 2024-07-19T12:10:20
+Episode 6060 - Step 1259855 - Epsilon 0.7298153008298939 - Mean Reward 725.69 - Mean Length 186.67 - Mean Loss 1.461 - Mean Q Value 38.637 - Time Delta 95.831 - Time 2024-07-19T12:11:56
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_126.chkpt at step 1260000
+Episode 6080 - Step 1264015 - Epsilon 0.7290566873694732 - Mean Reward 739.85 - Mean Length 184.59 - Mean Loss 1.455 - Mean Q Value 39.02 - Time Delta 97.532 - Time 2024-07-19T12:13:33
+Episode 6100 - Step 1267543 - Epsilon 0.7284139427828091 - Mean Reward 776.95 - Mean Length 191.46 - Mean Loss 1.427 - Mean Q Value 39.595 - Time Delta 83.074 - Time 2024-07-19T12:14:56
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_127.chkpt at step 1270000
+Episode 6120 - Step 1271037 - Epsilon 0.7277779509340802 - Mean Reward 757.56 - Mean Length 190.79 - Mean Loss 1.398 - Mean Q Value 40.13 - Time Delta 81.936 - Time 2024-07-19T12:16:18
+Episode 6140 - Step 1274293 - Epsilon 0.7271857806539157 - Mean Reward 754.24 - Mean Length 185.68 - Mean Loss 1.419 - Mean Q Value 40.638 - Time Delta 76.405 - Time 2024-07-19T12:17:35
+Episode 6160 - Step 1276920 - Epsilon 0.7267083581235113 - Mean Reward 731.1 - Mean Length 170.65 - Mean Loss 1.444 - Mean Q Value 41.201 - Time Delta 61.968 - Time 2024-07-19T12:18:37
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_128.chkpt at step 1280000
+Episode 6180 - Step 1280486 - Epsilon 0.7260607862392662 - Mean Reward 719.31 - Mean Length 164.71 - Mean Loss 1.437 - Mean Q Value 41.65 - Time Delta 83.345 - Time 2024-07-19T12:20:00
+Episode 6200 - Step 1284423 - Epsilon 0.7253465123907066 - Mean Reward 713.65 - Mean Length 168.8 - Mean Loss 1.456 - Mean Q Value 42.002 - Time Delta 92.452 - Time 2024-07-19T12:21:33
+Episode 6220 - Step 1288776 - Epsilon 0.7245575833037685 - Mean Reward 744.43 - Mean Length 177.39 - Mean Loss 1.466 - Mean Q Value 42.169 - Time Delta 101.811 - Time 2024-07-19T12:23:14
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_129.chkpt at step 1290000
+Episode 6240 - Step 1292064 - Epsilon 0.7239622416147488 - Mean Reward 746.28 - Mean Length 177.71 - Mean Loss 1.428 - Mean Q Value 42.404 - Time Delta 75.811 - Time 2024-07-19T12:24:30
+Episode 6260 - Step 1295364 - Epsilon 0.7233652189963985 - Mean Reward 769.56 - Mean Length 184.44 - Mean Loss 1.404 - Mean Q Value 42.549 - Time Delta 75.909 - Time 2024-07-19T12:25:46
+Episode 6280 - Step 1299369 - Epsilon 0.7226413119467345 - Mean Reward 787.47 - Mean Length 188.83 - Mean Loss 1.378 - Mean Q Value 42.488 - Time Delta 93.179 - Time 2024-07-19T12:27:19
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_130.chkpt at step 1300000
+Episode 6300 - Step 1302726 - Epsilon 0.7220350895714687 - Mean Reward 778.19 - Mean Length 183.03 - Mean Loss 1.344 - Mean Q Value 42.309 - Time Delta 77.954 - Time 2024-07-19T12:28:37
+Episode 6320 - Step 1306398 - Epsilon 0.7213725654214452 - Mean Reward 760.16 - Mean Length 176.22 - Mean Loss 1.315 - Mean Q Value 42.311 - Time Delta 85.538 - Time 2024-07-19T12:30:03
+Episode 6340 - Step 1309304 - Epsilon 0.7208486785120647 - Mean Reward 738.69 - Mean Length 172.4 - Mean Loss 1.302 - Mean Q Value 42.667 - Time Delta 67.5 - Time 2024-07-19T12:31:10
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_131.chkpt at step 1310000
+Episode 6360 - Step 1312147 - Epsilon 0.7203365172805781 - Mean Reward 706.32 - Mean Length 167.83 - Mean Loss 1.317 - Mean Q Value 42.895 - Time Delta 66.05 - Time 2024-07-19T12:32:16
+Episode 6380 - Step 1316381 - Epsilon 0.7195744443799067 - Mean Reward 686.7 - Mean Length 170.12 - Mean Loss 1.324 - Mean Q Value 42.924 - Time Delta 98.393 - Time 2024-07-19T12:33:55
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_132.chkpt at step 1320000
+Episode 6400 - Step 1320027 - Epsilon 0.7189188510238745 - Mean Reward 697.19 - Mean Length 173.01 - Mean Loss 1.338 - Mean Q Value 42.787 - Time Delta 85.294 - Time 2024-07-19T12:35:20
+Episode 6420 - Step 1324601 - Epsilon 0.7180972370622233 - Mean Reward 689.93 - Mean Length 182.03 - Mean Loss 1.36 - Mean Q Value 42.459 - Time Delta 106.311 - Time 2024-07-19T12:37:06
+Episode 6440 - Step 1327752 - Epsilon 0.7175317786421408 - Mean Reward 684.04 - Mean Length 184.48 - Mean Loss 1.364 - Mean Q Value 41.359 - Time Delta 73.689 - Time 2024-07-19T12:38:20
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_133.chkpt at step 1330000
+Episode 6460 - Step 1331247 - Epsilon 0.7169051089883066 - Mean Reward 715.27 - Mean Length 191.0 - Mean Loss 1.364 - Mean Q Value 40.189 - Time Delta 82.184 - Time 2024-07-19T12:39:42
+Episode 6480 - Step 1335513 - Epsilon 0.7161409371610002 - Mean Reward 713.79 - Mean Length 191.32 - Mean Loss 1.362 - Mean Q Value 39.404 - Time Delta 101.123 - Time 2024-07-19T12:41:23
+Episode 6500 - Step 1338625 - Epsilon 0.715583996120354 - Mean Reward 681.62 - Mean Length 185.98 - Mean Loss 1.36 - Mean Q Value 38.547 - Time Delta 73.822 - Time 2024-07-19T12:42:37
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_134.chkpt at step 1340000
+Episode 6520 - Step 1342762 - Epsilon 0.7148442858684013 - Mean Reward 691.15 - Mean Length 181.61 - Mean Loss 1.365 - Mean Q Value 37.885 - Time Delta 97.259 - Time 2024-07-19T12:44:14
+Episode 6540 - Step 1346393 - Epsilon 0.7141956803171211 - Mean Reward 717.57 - Mean Length 186.41 - Mean Loss 1.374 - Mean Q Value 38.066 - Time Delta 84.744 - Time 2024-07-19T12:45:39
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_135.chkpt at step 1350000
+Episode 6560 - Step 1350790 - Epsilon 0.7134110319587098 - Mean Reward 729.25 - Mean Length 195.43 - Mean Loss 1.351 - Mean Q Value 38.411 - Time Delta 104.233 - Time 2024-07-19T12:47:23
+Episode 6580 - Step 1354895 - Epsilon 0.712679269345502 - Mean Reward 738.36 - Mean Length 193.82 - Mean Loss 1.316 - Mean Q Value 38.392 - Time Delta 97.189 - Time 2024-07-19T12:49:01
+Episode 6600 - Step 1359396 - Epsilon 0.711877777921058 - Mean Reward 747.44 - Mean Length 207.71 - Mean Loss 1.264 - Mean Q Value 38.732 - Time Delta 106.595 - Time 2024-07-19T12:50:47
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_136.chkpt at step 1360000
+Episode 6620 - Step 1361915 - Epsilon 0.7114296139647663 - Mean Reward 710.43 - Mean Length 191.53 - Mean Loss 1.247 - Mean Q Value 38.652 - Time Delta 59.389 - Time 2024-07-19T12:51:47
+Episode 6640 - Step 1365334 - Epsilon 0.7108217792365403 - Mean Reward 688.08 - Mean Length 189.41 - Mean Loss 1.218 - Mean Q Value 38.375 - Time Delta 80.98 - Time 2024-07-19T12:53:08
+Episode 6660 - Step 1368913 - Epsilon 0.710186055819191 - Mean Reward 670.08 - Mean Length 181.23 - Mean Loss 1.197 - Mean Q Value 37.952 - Time Delta 84.537 - Time 2024-07-19T12:54:32
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_137.chkpt at step 1370000
+Episode 6680 - Step 1373738 - Epsilon 0.7093299102488291 - Mean Reward 699.43 - Mean Length 188.43 - Mean Loss 1.237 - Mean Q Value 37.844 - Time Delta 112.829 - Time 2024-07-19T12:56:25
+Episode 6700 - Step 1377784 - Epsilon 0.7086127857017492 - Mean Reward 728.81 - Mean Length 183.88 - Mean Loss 1.272 - Mean Q Value 37.741 - Time Delta 95.204 - Time 2024-07-19T12:58:00
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_138.chkpt at step 1380000
+Episode 6720 - Step 1381188 - Epsilon 0.7080100126619931 - Mean Reward 754.42 - Mean Length 192.73 - Mean Loss 1.297 - Mean Q Value 38.307 - Time Delta 80.09 - Time 2024-07-19T12:59:20
+Episode 6740 - Step 1384556 - Epsilon 0.7074141190631718 - Mean Reward 768.94 - Mean Length 192.22 - Mean Loss 1.343 - Mean Q Value 38.738 - Time Delta 78.539 - Time 2024-07-19T13:00:39
+Episode 6760 - Step 1388810 - Epsilon 0.7066621839658143 - Mean Reward 798.35 - Mean Length 198.97 - Mean Loss 1.393 - Mean Q Value 39.393 - Time Delta 99.567 - Time 2024-07-19T13:02:18
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_139.chkpt at step 1390000
+Episode 6780 - Step 1392641 - Epsilon 0.7059857021763951 - Mean Reward 766.95 - Mean Length 189.03 - Mean Loss 1.391 - Mean Q Value 40.024 - Time Delta 89.776 - Time 2024-07-19T13:03:48
+Episode 6800 - Step 1397024 - Epsilon 0.7052125419190164 - Mean Reward 762.92 - Mean Length 192.4 - Mean Loss 1.384 - Mean Q Value 40.394 - Time Delta 102.468 - Time 2024-07-19T13:05:31
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_140.chkpt at step 1400000
+Episode 6820 - Step 1401080 - Epsilon 0.7044978187379614 - Mean Reward 771.8 - Mean Length 198.92 - Mean Loss 1.366 - Mean Q Value 40.309 - Time Delta 94.667 - Time 2024-07-19T13:07:05
+Episode 6840 - Step 1403826 - Epsilon 0.7040143468955946 - Mean Reward 755.21 - Mean Length 192.7 - Mean Loss 1.346 - Mean Q Value 40.186 - Time Delta 64.962 - Time 2024-07-19T13:08:10
+Episode 6860 - Step 1407645 - Epsilon 0.7033425098830458 - Mean Reward 719.07 - Mean Length 188.35 - Mean Loss 1.325 - Mean Q Value 39.929 - Time Delta 90.134 - Time 2024-07-19T13:09:40
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_141.chkpt at step 1410000
+Episode 6880 - Step 1411444 - Epsilon 0.7026748273666541 - Mean Reward 721.16 - Mean Length 188.03 - Mean Loss 1.344 - Mean Q Value 39.559 - Time Delta 90.828 - Time 2024-07-19T13:11:11
+Episode 6900 - Step 1416442 - Epsilon 0.7017973833573617 - Mean Reward 762.88 - Mean Length 194.18 - Mean Loss 1.366 - Mean Q Value 39.453 - Time Delta 120.098 - Time 2024-07-19T13:13:11
+Episode 6920 - Step 1419329 - Epsilon 0.7012910437798369 - Mean Reward 752.45 - Mean Length 182.49 - Mean Loss 1.398 - Mean Q Value 39.733 - Time Delta 69.842 - Time 2024-07-19T13:14:21
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_142.chkpt at step 1420000
+Episode 6940 - Step 1423098 - Epsilon 0.700630563428855 - Mean Reward 804.8 - Mean Length 192.72 - Mean Loss 1.409 - Mean Q Value 40.342 - Time Delta 92.046 - Time 2024-07-19T13:15:53
+Episode 6960 - Step 1426056 - Epsilon 0.7001126385886991 - Mean Reward 801.73 - Mean Length 184.11 - Mean Loss 1.416 - Mean Q Value 41.006 - Time Delta 70.923 - Time 2024-07-19T13:17:04
+Episode 6980 - Step 1429497 - Epsilon 0.6995106255939788 - Mean Reward 791.23 - Mean Length 180.53 - Mean Loss 1.378 - Mean Q Value 41.829 - Time Delta 81.747 - Time 2024-07-19T13:18:26
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_143.chkpt at step 1430000
+Episode 7000 - Step 1433517 - Epsilon 0.6988079704706689 - Mean Reward 753.22 - Mean Length 170.75 - Mean Loss 1.382 - Mean Q Value 42.608 - Time Delta 96.404 - Time 2024-07-19T13:20:02
+Episode 7020 - Step 1437819 - Epsilon 0.6980568064152989 - Mean Reward 761.14 - Mean Length 184.9 - Mean Loss 1.353 - Mean Q Value 43.073 - Time Delta 103.875 - Time 2024-07-19T13:21:46
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_144.chkpt at step 1440000
+Episode 7040 - Step 1440929 - Epsilon 0.6975142781156258 - Mean Reward 731.03 - Mean Length 178.31 - Mean Loss 1.37 - Mean Q Value 42.953 - Time Delta 74.435 - Time 2024-07-19T13:23:00
+Episode 7060 - Step 1443738 - Epsilon 0.6970246206036612 - Mean Reward 728.43 - Mean Length 176.82 - Mean Loss 1.398 - Mean Q Value 42.807 - Time Delta 66.751 - Time 2024-07-19T13:24:07
+Episode 7080 - Step 1448077 - Epsilon 0.6962689329920638 - Mean Reward 744.75 - Mean Length 185.8 - Mean Loss 1.433 - Mean Q Value 42.278 - Time Delta 103.061 - Time 2024-07-19T13:25:50
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_145.chkpt at step 1450000
+Episode 7100 - Step 1451673 - Epsilon 0.6956432684213708 - Mean Reward 734.15 - Mean Length 181.56 - Mean Loss 1.481 - Mean Q Value 41.577 - Time Delta 85.632 - Time 2024-07-19T13:27:16
+Episode 7120 - Step 1456006 - Epsilon 0.6948901207538575 - Mean Reward 751.6 - Mean Length 181.87 - Mean Loss 1.512 - Mean Q Value 41.058 - Time Delta 102.135 - Time 2024-07-19T13:28:58
+Episode 7140 - Step 1459765 - Epsilon 0.6942374044243228 - Mean Reward 766.85 - Mean Length 188.36 - Mean Loss 1.52 - Mean Q Value 40.918 - Time Delta 88.455 - Time 2024-07-19T13:30:27
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_146.chkpt at step 1460000
+Episode 7160 - Step 1463220 - Epsilon 0.6936380156895207 - Mean Reward 780.32 - Mean Length 194.82 - Mean Loss 1.505 - Mean Q Value 40.674 - Time Delta 82.772 - Time 2024-07-19T13:31:49
+Episode 7180 - Step 1466163 - Epsilon 0.6931278591524853 - Mean Reward 739.17 - Mean Length 180.86 - Mean Loss 1.474 - Mean Q Value 40.703 - Time Delta 70.04 - Time 2024-07-19T13:32:59
+Episode 7200 - Step 1469918 - Epsilon 0.692477490607813 - Mean Reward 744.06 - Mean Length 182.45 - Mean Loss 1.395 - Mean Q Value 40.843 - Time Delta 88.525 - Time 2024-07-19T13:34:28
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_147.chkpt at step 1470000
+Episode 7220 - Step 1473419 - Epsilon 0.6918716647715532 - Mean Reward 719.79 - Mean Length 174.13 - Mean Loss 1.37 - Mean Q Value 40.996 - Time Delta 83.942 - Time 2024-07-19T13:35:52
+Episode 7240 - Step 1476975 - Epsilon 0.6912568641040229 - Mean Reward 708.58 - Mean Length 172.1 - Mean Loss 1.324 - Mean Q Value 41.04 - Time Delta 85.463 - Time 2024-07-19T13:37:17
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_148.chkpt at step 1480000
+Episode 7260 - Step 1481249 - Epsilon 0.690518650513193 - Mean Reward 732.49 - Mean Length 180.29 - Mean Loss 1.311 - Mean Q Value 41.099 - Time Delta 102.575 - Time 2024-07-19T13:39:00
+Episode 7280 - Step 1484952 - Epsilon 0.6898796985930246 - Mean Reward 757.78 - Mean Length 187.89 - Mean Loss 1.323 - Mean Q Value 41.005 - Time Delta 87.95 - Time 2024-07-19T13:40:28
+Episode 7300 - Step 1488306 - Epsilon 0.6893014768467388 - Mean Reward 747.38 - Mean Length 183.88 - Mean Loss 1.337 - Mean Q Value 40.911 - Time Delta 79.996 - Time 2024-07-19T13:41:48
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_149.chkpt at step 1490000
+Episode 7320 - Step 1493475 - Epsilon 0.6884113021898666 - Mean Reward 790.97 - Mean Length 200.56 - Mean Loss 1.328 - Mean Q Value 40.566 - Time Delta 123.785 - Time 2024-07-19T13:43:52
+Episode 7340 - Step 1496663 - Epsilon 0.6878628568978689 - Mean Reward 782.91 - Mean Length 196.88 - Mean Loss 1.312 - Mean Q Value 40.204 - Time Delta 76.683 - Time 2024-07-19T13:45:08
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_150.chkpt at step 1500000
+Episode 7360 - Step 1501332 - Epsilon 0.6870604172926632 - Mean Reward 783.49 - Mean Length 200.83 - Mean Loss 1.312 - Mean Q Value 39.872 - Time Delta 112.136 - Time 2024-07-19T13:47:00
+Episode 7380 - Step 1505505 - Epsilon 0.6863440151809005 - Mean Reward 792.54 - Mean Length 205.53 - Mean Loss 1.317 - Mean Q Value 39.569 - Time Delta 100.837 - Time 2024-07-19T13:48:41
+Episode 7400 - Step 1508839 - Epsilon 0.6857721857157245 - Mean Reward 794.67 - Mean Length 205.33 - Mean Loss 1.338 - Mean Q Value 39.319 - Time Delta 80.117 - Time 2024-07-19T13:50:01
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_151.chkpt at step 1510000
+Episode 7420 - Step 1512310 - Epsilon 0.6851773649423246 - Mean Reward 754.34 - Mean Length 188.35 - Mean Loss 1.336 - Mean Q Value 39.348 - Time Delta 83.251 - Time 2024-07-19T13:51:25
+Episode 7440 - Step 1516384 - Epsilon 0.6844798669699816 - Mean Reward 780.09 - Mean Length 197.21 - Mean Loss 1.354 - Mean Q Value 39.444 - Time Delta 97.069 - Time 2024-07-19T13:53:02
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_152.chkpt at step 1520000
+Episode 7460 - Step 1520727 - Epsilon 0.6837370961661352 - Mean Reward 787.99 - Mean Length 193.95 - Mean Loss 1.337 - Mean Q Value 39.601 - Time Delta 103.856 - Time 2024-07-19T13:54:46
+Episode 7480 - Step 1525411 - Epsilon 0.6829369085276866 - Mean Reward 801.19 - Mean Length 199.06 - Mean Loss 1.323 - Mean Q Value 39.951 - Time Delta 111.986 - Time 2024-07-19T13:56:38
+Episode 7500 - Step 1528800 - Epsilon 0.6823585352075551 - Mean Reward 786.37 - Mean Length 199.61 - Mean Loss 1.307 - Mean Q Value 40.155 - Time Delta 81.028 - Time 2024-07-19T13:57:59
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_153.chkpt at step 1530000
+Episode 7520 - Step 1532715 - Epsilon 0.6816910034343289 - Mean Reward 801.63 - Mean Length 204.05 - Mean Loss 1.331 - Mean Q Value 40.134 - Time Delta 93.642 - Time 2024-07-19T13:59:32
+Episode 7540 - Step 1535797 - Epsilon 0.6811659627483793 - Mean Reward 759.01 - Mean Length 194.13 - Mean Loss 1.365 - Mean Q Value 40.186 - Time Delta 74.137 - Time 2024-07-19T14:00:46
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_154.chkpt at step 1540000
+Episode 7560 - Step 1540120 - Epsilon 0.6804301902067688 - Mean Reward 743.17 - Mean Length 193.93 - Mean Loss 1.412 - Mean Q Value 40.11 - Time Delta 102.983 - Time 2024-07-19T14:02:29
+Episode 7580 - Step 1543254 - Epsilon 0.6798972818801475 - Mean Reward 707.76 - Mean Length 178.43 - Mean Loss 1.467 - Mean Q Value 39.972 - Time Delta 74.149 - Time 2024-07-19T14:03:43
+Episode 7600 - Step 1547021 - Epsilon 0.6792572899383548 - Mean Reward 719.47 - Mean Length 182.21 - Mean Loss 1.494 - Mean Q Value 40.092 - Time Delta 89.072 - Time 2024-07-19T14:05:13
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_155.chkpt at step 1550000
+Episode 7620 - Step 1551602 - Epsilon 0.6784798157159142 - Mean Reward 733.23 - Mean Length 188.87 - Mean Loss 1.495 - Mean Q Value 40.242 - Time Delta 108.602 - Time 2024-07-19T14:07:01
+Episode 7640 - Step 1555490 - Epsilon 0.6778206536572104 - Mean Reward 786.08 - Mean Length 196.93 - Mean Loss 1.499 - Mean Q Value 40.305 - Time Delta 92.526 - Time 2024-07-19T14:08:34
+Episode 7660 - Step 1558052 - Epsilon 0.6773866484792261 - Mean Reward 739.29 - Mean Length 179.32 - Mean Loss 1.486 - Mean Q Value 40.608 - Time Delta 60.077 - Time 2024-07-19T14:09:34
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_156.chkpt at step 1560000
+Episode 7680 - Step 1562397 - Epsilon 0.6766512366331572 - Mean Reward 764.99 - Mean Length 191.43 - Mean Loss 1.473 - Mean Q Value 40.965 - Time Delta 102.487 - Time 2024-07-19T14:11:16
+Episode 7700 - Step 1565772 - Epsilon 0.6760805528718994 - Mean Reward 755.29 - Mean Length 187.51 - Mean Loss 1.482 - Mean Q Value 41.023 - Time Delta 79.767 - Time 2024-07-19T14:12:36
+Episode 7720 - Step 1569479 - Epsilon 0.6754542853826757 - Mean Reward 735.37 - Mean Length 178.77 - Mean Loss 1.487 - Mean Q Value 41.171 - Time Delta 88.206 - Time 2024-07-19T14:14:04
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_157.chkpt at step 1570000
+Episode 7740 - Step 1573411 - Epsilon 0.674790639972258 - Mean Reward 707.56 - Mean Length 179.21 - Mean Loss 1.501 - Mean Q Value 41.374 - Time Delta 93.311 - Time 2024-07-19T14:15:37
+Episode 7760 - Step 1577504 - Epsilon 0.6741005135097107 - Mean Reward 753.54 - Mean Length 194.52 - Mean Loss 1.544 - Mean Q Value 41.227 - Time Delta 97.427 - Time 2024-07-19T14:17:15
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_158.chkpt at step 1580000
+Episode 7780 - Step 1580623 - Epsilon 0.6735750884452673 - Mean Reward 719.5 - Mean Length 182.26 - Mean Loss 1.586 - Mean Q Value 40.938 - Time Delta 74.425 - Time 2024-07-19T14:18:29
+Episode 7800 - Step 1583010 - Epsilon 0.673173252370719 - Mean Reward 703.17 - Mean Length 172.38 - Mean Loss 1.669 - Mean Q Value 41.044 - Time Delta 56.719 - Time 2024-07-19T14:19:26
+Episode 7820 - Step 1585576 - Epsilon 0.6727415501585902 - Mean Reward 676.07 - Mean Length 160.97 - Mean Loss 1.728 - Mean Q Value 41.37 - Time Delta 61.278 - Time 2024-07-19T14:20:27
+Episode 7840 - Step 1588951 - Epsilon 0.6721741638044209 - Mean Reward 666.06 - Mean Length 155.4 - Mean Loss 1.753 - Mean Q Value 41.728 - Time Delta 80.602 - Time 2024-07-19T14:21:48
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_159.chkpt at step 1590000
+Episode 7860 - Step 1593362 - Epsilon 0.6714333322036786 - Mean Reward 645.88 - Mean Length 158.58 - Mean Loss 1.821 - Mean Q Value 42.16 - Time Delta 105.989 - Time 2024-07-19T14:23:34
+Episode 7880 - Step 1597674 - Epsilon 0.6707099169718992 - Mean Reward 682.76 - Mean Length 170.51 - Mean Loss 1.851 - Mean Q Value 42.557 - Time Delta 101.997 - Time 2024-07-19T14:25:16
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_160.chkpt at step 1600000
+Episode 7900 - Step 1601804 - Epsilon 0.6700177662802926 - Mean Reward 715.84 - Mean Length 187.94 - Mean Loss 1.848 - Mean Q Value 42.599 - Time Delta 98.163 - Time 2024-07-19T14:26:54
+Episode 7920 - Step 1606644 - Epsilon 0.6692075349705007 - Mean Reward 759.73 - Mean Length 210.68 - Mean Loss 1.906 - Mean Q Value 42.147 - Time Delta 116.022 - Time 2024-07-19T14:28:50
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_161.chkpt at step 1610000
+Episode 7940 - Step 1611703 - Epsilon 0.66836168963899 - Mean Reward 810.49 - Mean Length 227.52 - Mean Loss 1.99 - Mean Q Value 41.44 - Time Delta 120.088 - Time 2024-07-19T14:30:50
+Episode 7960 - Step 1615986 - Epsilon 0.6676464242738323 - Mean Reward 843.02 - Mean Length 226.24 - Mean Loss 2.0 - Mean Q Value 41.107 - Time Delta 101.714 - Time 2024-07-19T14:32:32
+Episode 7980 - Step 1619731 - Epsilon 0.6670216327570876 - Mean Reward 811.46 - Mean Length 220.57 - Mean Loss 1.995 - Mean Q Value 40.873 - Time Delta 89.255 - Time 2024-07-19T14:34:01
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_162.chkpt at step 1620000
+Episode 8000 - Step 1624391 - Epsilon 0.6662450049312844 - Mean Reward 831.87 - Mean Length 225.87 - Mean Loss 1.999 - Mean Q Value 40.525 - Time Delta 110.993 - Time 2024-07-19T14:35:52
+Episode 8020 - Step 1628224 - Epsilon 0.6656068813652397 - Mean Reward 780.71 - Mean Length 215.8 - Mean Loss 1.959 - Mean Q Value 40.218 - Time Delta 91.374 - Time 2024-07-19T14:37:24
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_163.chkpt at step 1630000
+Episode 8040 - Step 1633186 - Epsilon 0.6647817078453387 - Mean Reward 740.89 - Mean Length 214.83 - Mean Loss 1.897 - Mean Q Value 39.786 - Time Delta 119.665 - Time 2024-07-19T14:39:23
+Episode 8060 - Step 1637332 - Epsilon 0.6640930184938899 - Mean Reward 713.58 - Mean Length 213.46 - Mean Loss 1.802 - Mean Q Value 38.758 - Time Delta 98.697 - Time 2024-07-19T14:41:02
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_164.chkpt at step 1640000
+Episode 8080 - Step 1642490 - Epsilon 0.6632372223326061 - Mean Reward 746.08 - Mean Length 227.59 - Mean Loss 1.726 - Mean Q Value 37.647 - Time Delta 121.892 - Time 2024-07-19T14:43:04
+Episode 8100 - Step 1647217 - Epsilon 0.6624539045811226 - Mean Reward 744.13 - Mean Length 228.26 - Mean Loss 1.643 - Mean Q Value 36.408 - Time Delta 111.833 - Time 2024-07-19T14:44:56
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_165.chkpt at step 1650000
+Episode 8120 - Step 1650881 - Epsilon 0.6618473745617837 - Mean Reward 752.43 - Mean Length 226.57 - Mean Loss 1.56 - Mean Q Value 35.717 - Time Delta 87.45 - Time 2024-07-19T14:46:23
+Episode 8140 - Step 1655361 - Epsilon 0.6611065203653594 - Mean Reward 749.04 - Mean Length 221.75 - Mean Loss 1.477 - Mean Q Value 35.289 - Time Delta 105.854 - Time 2024-07-19T14:48:09
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_166.chkpt at step 1660000
+Episode 8160 - Step 1660693 - Epsilon 0.6602258523591368 - Mean Reward 747.12 - Mean Length 233.61 - Mean Loss 1.431 - Mean Q Value 35.198 - Time Delta 126.146 - Time 2024-07-19T14:50:15
+Episode 8180 - Step 1664572 - Epsilon 0.6595859086016093 - Mean Reward 729.57 - Mean Length 220.82 - Mean Loss 1.407 - Mean Q Value 35.287 - Time Delta 91.858 - Time 2024-07-19T14:51:47
+Episode 8200 - Step 1668769 - Epsilon 0.6588942009510358 - Mean Reward 703.31 - Mean Length 215.52 - Mean Loss 1.365 - Mean Q Value 35.691 - Time Delta 99.632 - Time 2024-07-19T14:53:27
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_167.chkpt at step 1670000
+Episode 8220 - Step 1674178 - Epsilon 0.6580038133054023 - Mean Reward 735.21 - Mean Length 232.97 - Mean Loss 1.355 - Mean Q Value 35.441 - Time Delta 127.882 - Time 2024-07-19T14:55:34
+Episode 8240 - Step 1679025 - Epsilon 0.6572069599759255 - Mean Reward 746.66 - Mean Length 236.64 - Mean Loss 1.346 - Mean Q Value 35.127 - Time Delta 114.654 - Time 2024-07-19T14:57:29
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_168.chkpt at step 1680000
+Episode 8260 - Step 1682440 - Epsilon 0.6566461089110255 - Mean Reward 731.77 - Mean Length 217.47 - Mean Loss 1.359 - Mean Q Value 35.134 - Time Delta 80.859 - Time 2024-07-19T14:58:50
+Episode 8280 - Step 1685772 - Epsilon 0.6560993503904208 - Mean Reward 727.43 - Mean Length 212.0 - Mean Loss 1.35 - Mean Q Value 35.215 - Time Delta 79.534 - Time 2024-07-19T15:00:09
+Episode 8300 - Step 1689402 - Epsilon 0.6555042102411525 - Mean Reward 711.93 - Mean Length 206.33 - Mean Loss 1.358 - Mean Q Value 35.343 - Time Delta 86.114 - Time 2024-07-19T15:01:36
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_169.chkpt at step 1690000
+Episode 8320 - Step 1693161 - Epsilon 0.6548884894396542 - Mean Reward 677.39 - Mean Length 189.83 - Mean Loss 1.336 - Mean Q Value 35.807 - Time Delta 89.419 - Time 2024-07-19T15:03:05
+Episode 8340 - Step 1696830 - Epsilon 0.6542880683078179 - Mean Reward 678.97 - Mean Length 178.05 - Mean Loss 1.331 - Mean Q Value 36.701 - Time Delta 87.409 - Time 2024-07-19T15:04:32
+Episode 8360 - Step 1699881 - Epsilon 0.6537892003012599 - Mean Reward 668.09 - Mean Length 174.41 - Mean Loss 1.309 - Mean Q Value 37.46 - Time Delta 72.344 - Time 2024-07-19T15:05:45
+MarioNet saved to checkpoints/2024-07-19T04-06-54/mario_net_170.chkpt at step 1700000

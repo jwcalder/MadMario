@@ -16,7 +16,7 @@ class Mario:
         self.exploration_rate = 1
         self.exploration_rate_decay = 0.99999975
         self.exploration_rate_min = 0.1
-        self.gamma = 0.9
+        self.gamma = 0.99
 
         self.curr_step = 0
         self.burnin = 1e4  # min. experiences before training
