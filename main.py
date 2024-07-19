@@ -50,7 +50,7 @@ for e in range(episodes):
     state = env.reset()
 
     # Play the game!
-    while True:
+    while False:
 
         # 3. Show environment (the visual) [WIP]
         # env.render()
